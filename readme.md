@@ -1,6 +1,6 @@
 # Program Competencies and SDG Visualization Dashboard
 
-This is a proof-of-concept visualization dashboard that displays program competencies and Sustainable Development Goals (SDG) integration across courses. The data used is sourced solely from publicly available UNSW course and program information.
+This is a proof-of-concept visualization dashboard that displays program competencies and Sustainable Development Goals (SDG) integration across courses. The data used is sourced solely from publicly available UNSW course and program information. [programviz]{https://fiacrerougieux.github.io/programviz/}.
 
 ## Data Sources
 - Course descriptions and competency mappings from UNSW Handbook
