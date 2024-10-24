@@ -1,0 +1,1305 @@
+{
+    "1": {
+        "1.1": {
+            "SOLA4951": [
+                "CLO4"
+            ],
+            "SOLA4952": [
+                "CLO4"
+            ],
+            "SOLA4953": [
+                "CLO4"
+            ],
+            "ELEC2911": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4",
+                "CLO5"
+            ],
+            "SOLA2051": [
+                "CLO1",
+                "CLO2"
+            ],
+            "ELEC2134": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4"
+            ],
+            "PHYS1231": [
+                "CLO5",
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4"
+            ],
+            "MMAN2700": [
+                "CLO4",
+                "CLO1",
+                "CLO3",
+                "CLO2"
+            ],
+            "SOLA3010": [
+                "CLO3",
+                "CLO2",
+                "CLO4",
+                "CLO5",
+                "CLO1"
+            ],
+            "GMAT1110": [
+                "CLO3",
+                "CLO2",
+                "CLO4"
+            ],
+            "SOLA5050": [
+                "CLO3",
+                "CLO2"
+            ],
+            "PHYS1221": [
+                "CLO2",
+                "CLO4",
+                "CLO3",
+                "CLO1"
+            ],
+            "PHYS1121": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4"
+            ],
+            "PHYS1131": [
+                "CLO3",
+                "CLO5",
+                "CLO2",
+                "CLO1",
+                "CLO4"
+            ],
+            "CVEN1701": [
+                "CLO3",
+                "CLO1",
+                "CLO4"
+            ],
+            "SOLA2060": [
+                "CLO2",
+                "CLO3",
+                "CLO1"
+            ],
+            "ELEC1111": [
+                "CLO5",
+                "CLO3",
+                "CLO1",
+                "CLO2",
+                "CLO6",
+                "CLO7",
+                "CLO4"
+            ],
+            "ELEC3105": [
+                "CLO1",
+                "CLO4",
+                "CLO3",
+                "CLO2"
+            ],
+            "SOLA1070": [
+                "CLO3",
+                "CLO4",
+                "CLO1",
+                "CLO2"
+            ],
+            "BABS1201": [
+                "CLO3",
+                "CLO4",
+                "CLO2"
+            ],
+            "SOLA5052": [
+                "CLO2",
+                "CLO3",
+                "CLO4"
+            ],
+            "CHEM1011": [
+                "CLO4",
+                "CLO3",
+                "CLO1",
+                "CLO2"
+            ],
+            "SOLA5057": [
+                "CLO1",
+                "CLO2"
+            ],
+            "CHEM1031": [
+                "CLO3",
+                "CLO5",
+                "CLO2",
+                "CLO1"
+            ],
+            "SOLA2540": [
+                "CLO1",
+                "CLO2",
+                "CLO3"
+            ],
+            "MECH9720": [
+                "CLO1"
+            ],
+            "SOLA3020": [
+                "CLO2",
+                "CLO1"
+            ],
+            "SOLA5053": [
+                "CLO1"
+            ],
+            "BIOS1301": [
+                "CLO2",
+                "CLO3",
+                "CLO1"
+            ],
+            "MATS1101": [
+                "CLO3",
+                "CLO1"
+            ],
+            "DESN1000": [
+                "CLO3"
+            ],
+            "MECH9761": [
+                "CLO2"
+            ],
+            "SOLA3507": [
+                "CLO1"
+            ]
+        },
+        "1.2": {
+            "SOLA4951": [
+                "CLO4"
+            ],
+            "SOLA4952": [
+                "CLO4"
+            ],
+            "SOLA4953": [
+                "CLO4"
+            ],
+            "ELEC2911": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4",
+                "CLO5"
+            ],
+            "SOLA2051": [
+                "CLO1",
+                "CLO2"
+            ],
+            "ELEC2134": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4"
+            ],
+            "MATH1081": [
+                "CLO2",
+                "CLO1"
+            ],
+            "MATH2069": [
+                "CLO2",
+                "CLO5",
+                "CLO1",
+                "CLO3",
+                "CLO4",
+                "CLO6"
+            ],
+            "MATH1141": [
+                "CLO2",
+                "CLO5",
+                "CLO1",
+                "CLO6"
+            ],
+            "MATH1241": [
+                "CLO2",
+                "CLO1",
+                "CLO6",
+                "CLO5"
+            ],
+            "MMAN2700": [
+                "CLO4",
+                "CLO3",
+                "CLO2"
+            ],
+            "MATH2089": [
+                "CLO1",
+                "CLO4",
+                "CLO6",
+                "CLO2"
+            ],
+            "GMAT1110": [
+                "CLO3",
+                "CLO1",
+                "CLO4"
+            ],
+            "MATH1231": [
+                "CLO5",
+                "CLO6",
+                "CLO1",
+                "CLO2"
+            ],
+            "SOLA5050": [
+                "CLO3",
+                "CLO4",
+                "CLO2",
+                "CLO1",
+                "CLO5"
+            ],
+            "SOLA3507": [
+                "CLO2",
+                "CLO1"
+            ],
+            "ELEC1111": [
+                "CLO5",
+                "CLO3",
+                "CLO1",
+                "CLO2",
+                "CLO6",
+                "CLO4"
+            ],
+            "ELEC3105": [
+                "CLO1",
+                "CLO4",
+                "CLO3",
+                "CLO2"
+            ],
+            "ENGG1811": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA1070": [
+                "CLO3",
+                "CLO4",
+                "CLO2"
+            ],
+            "CVEN1701": [
+                "CLO2",
+                "CLO4"
+            ],
+            "MATH1131": [
+                "CLO5",
+                "CLO1",
+                "CLO6",
+                "CLO2"
+            ],
+            "SOLA5052": [
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA5053": [
+                "CLO1"
+            ],
+            "MINE1010": [
+                "CLO4"
+            ],
+            "MECH9720": [
+                "CLO2"
+            ]
+        },
+        "1.3": {
+            "SOLA4951": [
+                "CLO1"
+            ],
+            "SOLA4952": [
+                "CLO1"
+            ],
+            "SOLA4953": [
+                "CLO1"
+            ],
+            "ELEC2911": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4",
+                "CLO5"
+            ],
+            "DESN2000": [
+                "CLO3"
+            ],
+            "SOLA2051": [
+                "CLO2"
+            ],
+            "ELEC2134": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4"
+            ],
+            "MMAN2700": [
+                "CLO4",
+                "CLO3",
+                "CLO2"
+            ],
+            "SOLA5052": [
+                "CLO1",
+                "CLO3"
+            ],
+            "SOLA3010": [
+                "CLO3",
+                "CLO2",
+                "CLO4",
+                "CLO5",
+                "CLO1"
+            ],
+            "SOLA5051": [
+                "CLO2",
+                "CLO1"
+            ],
+            "SOLA4012": [
+                "CLO2",
+                "CLO1"
+            ],
+            "SOLA3507": [
+                "CLO2",
+                "CLO1"
+            ],
+            "SOLA2060": [
+                "CLO2",
+                "CLO3",
+                "CLO1"
+            ],
+            "SOLA2540": [
+                "CLO5",
+                "CLO1",
+                "CLO2",
+                "CLO6",
+                "CLO4",
+                "CLO3"
+            ],
+            "ELEC1111": [
+                "CLO5",
+                "CLO3",
+                "CLO1",
+                "CLO2",
+                "CLO6",
+                "CLO7",
+                "CLO4"
+            ],
+            "ELEC3105": [
+                "CLO1",
+                "CLO4",
+                "CLO3",
+                "CLO2"
+            ],
+            "ENGG1811": [
+                "CLO1",
+                "CLO2",
+                "CLO3"
+            ],
+            "SOLA5057": [
+                "CLO1",
+                "CLO2"
+            ],
+            "SOLA5050": [
+                "CLO4",
+                "CLO5"
+            ],
+            "CVEN1701": [
+                "CLO2",
+                "CLO1",
+                "CLO4"
+            ],
+            "SOLA3020": [
+                "CLO2",
+                "CLO1"
+            ],
+            "SOLA5053": [
+                "CLO1"
+            ],
+            "SOLA1070": [
+                "CLO1"
+            ],
+            "DESN1000": [
+                "CLO3"
+            ],
+            "MECH9761": [
+                "CLO2"
+            ],
+            "MECH9720": [
+                "CLO2"
+            ]
+        },
+        "1.4": {
+            "SOLA4951": [
+                "CLO1",
+                "CLO2"
+            ],
+            "SOLA4952": [
+                "CLO1",
+                "CLO2"
+            ],
+            "SOLA4953": [
+                "CLO1",
+                "CLO2"
+            ],
+            "SOLA5050": [
+                "CLO3",
+                "CLO4",
+                "CLO5"
+            ],
+            "MATS1101": [
+                "CLO2"
+            ],
+            "MINE1010": [
+                "CLO3"
+            ],
+            "CVEN1701": [
+                "CLO4"
+            ]
+        },
+        "1.5": {
+            "SOLA4951": [
+                "CLO1"
+            ],
+            "SOLA4952": [
+                "CLO1"
+            ],
+            "SOLA4953": [
+                "CLO1"
+            ],
+            "DESN2000": [
+                "CLO1",
+                "CLO2"
+            ],
+            "SOLA3020": [
+                "CLO3",
+                "CLO1"
+            ],
+            "SOLA3010": [
+                "CLO3",
+                "CLO2",
+                "CLO4",
+                "CLO5",
+                "CLO1"
+            ],
+            "SOLA5057": [
+                "CLO4",
+                "CLO1",
+                "CLO3",
+                "CLO2"
+            ],
+            "SOLA2060": [
+                "CLO2",
+                "CLO3"
+            ],
+            "SOLA2540": [
+                "CLO5",
+                "CLO2",
+                "CLO6",
+                "CLO4",
+                "CLO3"
+            ],
+            "ELEC3105": [
+                "CLO1",
+                "CLO3"
+            ],
+            "SOLA5053": [
+                "CLO2"
+            ],
+            "GMAT1110": [
+                "CLO2",
+                "CLO1"
+            ],
+            "MINE1010": [
+                "CLO1"
+            ],
+            "SOLA5056": [
+                "CLO2"
+            ],
+            "MECH9761": [
+                "CLO1"
+            ],
+            "SOLA4012": [
+                "CLO1"
+            ],
+            "DESN1000": [
+                "CLO2",
+                "CLO1"
+            ]
+        },
+        "1.6": {
+            "DESN2000": [
+                "CLO2"
+            ],
+            "SOLA5052": [
+                "CLO1",
+                "CLO2"
+            ],
+            "MECH9761": [
+                "CLO3"
+            ],
+            "SOLA3010": [
+                "CLO3",
+                "CLO2",
+                "CLO4",
+                "CLO5",
+                "CLO1"
+            ],
+            "SOLA5057": [
+                "CLO4",
+                "CLO1",
+                "CLO3",
+                "CLO2"
+            ],
+            "CVEN1701": [
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA5056": [
+                "CLO3"
+            ],
+            "SOLA4012": [
+                "CLO4",
+                "CLO3",
+                "CLO1"
+            ],
+            "SOLA1070": [
+                "CLO4",
+                "CLO1",
+                "CLO2"
+            ],
+            "SOLA5051": [
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA5053": [
+                "CLO3"
+            ],
+            "SOLA5050": [
+                "CLO1"
+            ],
+            "MINE1010": [
+                "CLO3"
+            ]
+        }
+    },
+    "2": {
+        "2.1": {
+            "SOLA4951": [
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA4952": [
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA4953": [
+                "CLO3",
+                "CLO4"
+            ],
+            "ELEC2911": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4",
+                "CLO5"
+            ],
+            "DESN2000": [
+                "CLO1",
+                "CLO2",
+                "CLO3"
+            ],
+            "ELEC2134": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA3020": [
+                "CLO3"
+            ],
+            "SOLA3010": [
+                "CLO3",
+                "CLO2",
+                "CLO4",
+                "CLO5",
+                "CLO1"
+            ],
+            "SOLA4012": [
+                "CLO2",
+                "CLO4"
+            ],
+            "SOLA3507": [
+                "CLO2",
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA2060": [
+                "CLO2",
+                "CLO3",
+                "CLO1"
+            ],
+            "SOLA2540": [
+                "CLO5",
+                "CLO2",
+                "CLO6",
+                "CLO4",
+                "CLO3"
+            ],
+            "ELEC3105": [
+                "CLO1",
+                "CLO4",
+                "CLO3",
+                "CLO2"
+            ],
+            "ELEC1111": [
+                "CLO3",
+                "CLO1",
+                "CLO2",
+                "CLO6",
+                "CLO4"
+            ],
+            "SOLA1070": [
+                "CLO3"
+            ],
+            "MATH1081": [
+                "CLO4"
+            ],
+            "SOLA5057": [
+                "CLO1",
+                "CLO2"
+            ],
+            "MATH1231": [
+                "CLO3"
+            ],
+            "MINE1010": [
+                "CLO1"
+            ],
+            "MATH2089": [
+                "CLO3"
+            ],
+            "SOLA5056": [
+                "CLO2",
+                "CLO4"
+            ],
+            "SOLA5053": [
+                "CLO1"
+            ],
+            "MATH1241": [
+                "CLO3"
+            ],
+            "MATH1131": [
+                "CLO3"
+            ],
+            "DESN1000": [
+                "CLO3",
+                "CLO2",
+                "CLO1"
+            ],
+            "MATH1141": [
+                "CLO3"
+            ],
+            "SOLA5052": [
+                "CLO4"
+            ],
+            "MECH9761": [
+                "CLO2"
+            ],
+            "CVEN1701": [
+                "CLO4"
+            ]
+        },
+        "2.2": {
+            "SOLA4951": [
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA4952": [
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA4953": [
+                "CLO3",
+                "CLO4"
+            ],
+            "ELEC2911": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4",
+                "CLO5"
+            ],
+            "DESN2000": [
+                "CLO1",
+                "CLO2",
+                "CLO3"
+            ],
+            "ELEC2134": [
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA3020": [
+                "CLO3",
+                "CLO2"
+            ],
+            "MECH9761": [
+                "CLO3"
+            ],
+            "SOLA3010": [
+                "CLO3",
+                "CLO2",
+                "CLO4",
+                "CLO5"
+            ],
+            "MINE1010": [
+                "CLO2"
+            ],
+            "SOLA4012": [
+                "CLO2",
+                "CLO4",
+                "CLO3"
+            ],
+            "SOLA2060": [
+                "CLO2",
+                "CLO3",
+                "CLO1"
+            ],
+            "SOLA2540": [
+                "CLO5",
+                "CLO2",
+                "CLO3"
+            ],
+            "ELEC1111": [
+                "CLO5",
+                "CLO3",
+                "CLO1",
+                "CLO2",
+                "CLO6",
+                "CLO7",
+                "CLO4"
+            ],
+            "ELEC3105": [
+                "CLO1",
+                "CLO4",
+                "CLO3",
+                "CLO2"
+            ],
+            "SOLA1070": [
+                "CLO3"
+            ],
+            "SOLA5053": [
+                "CLO2"
+            ],
+            "SOLA5052": [
+                "CLO2",
+                "CLO4"
+            ],
+            "SOLA5057": [
+                "CLO1",
+                "CLO2"
+            ],
+            "GMAT1110": [
+                "CLO2",
+                "CLO1"
+            ],
+            "DESN1000": [
+                "CLO3",
+                "CLO2",
+                "CLO1"
+            ],
+            "CVEN1701": [
+                "CLO4"
+            ]
+        },
+        "2.3": {
+            "SOLA4951": [
+                "CLO1"
+            ],
+            "SOLA4952": [
+                "CLO1"
+            ],
+            "SOLA4953": [
+                "CLO1"
+            ],
+            "DESN2000": [
+                "CLO1",
+                "CLO2",
+                "CLO3"
+            ],
+            "ELEC2134": [
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA3010": [
+                "CLO2",
+                "CLO1"
+            ],
+            "SOLA5051": [
+                "CLO5"
+            ],
+            "GMAT1110": [
+                "CLO3",
+                "CLO1"
+            ],
+            "SOLA3507": [
+                "CLO2",
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA2060": [
+                "CLO2"
+            ],
+            "SOLA2540": [
+                "CLO5",
+                "CLO4"
+            ],
+            "SOLA5056": [
+                "CLO3"
+            ],
+            "SOLA5053": [
+                "CLO2",
+                "CLO3"
+            ],
+            "SOLA5052": [
+                "CLO2",
+                "CLO3"
+            ],
+            "SOLA5057": [
+                "CLO1",
+                "CLO2"
+            ],
+            "SOLA4012": [
+                "CLO4",
+                "CLO5",
+                "CLO3"
+            ],
+            "MECH9761": [
+                "CLO1"
+            ],
+            "DESN1000": [
+                "CLO3",
+                "CLO2",
+                "CLO1"
+            ]
+        },
+        "2.4": {
+            "SOLA4951": [
+                "CLO1"
+            ],
+            "SOLA4952": [
+                "CLO1"
+            ],
+            "SOLA4953": [
+                "CLO1"
+            ],
+            "DESN2000": [
+                "CLO4",
+                "CLO5"
+            ],
+            "SOLA2051": [
+                "CLO3",
+                "CLO4"
+            ],
+            "SOLA5052": [
+                "CLO1"
+            ],
+            "SOLA5057": [
+                "CLO4",
+                "CLO3"
+            ],
+            "DESN1000": [
+                "CLO5",
+                "CLO4",
+                "CLO1"
+            ],
+            "SOLA5053": [
+                "CLO2"
+            ],
+            "GMAT1110": [
+                "CLO2"
+            ],
+            "SOLA5056": [
+                "CLO4"
+            ]
+        }
+    },
+    "3": {
+        "3.1": {
+            "SOLA4951": [
+                "CLO1"
+            ],
+            "SOLA4952": [
+                "CLO1"
+            ],
+            "SOLA4953": [
+                "CLO1"
+            ],
+            "CHEM1011": [
+                "CLO5"
+            ],
+            "MECH9761": [
+                "CLO3"
+            ],
+            "CHEM1031": [
+                "CLO4"
+            ],
+            "CVEN1701": [
+                "CLO3",
+                "CLO1"
+            ],
+            "MATS1101": [
+                "CLO4"
+            ],
+            "SOLA5056": [
+                "CLO5"
+            ],
+            "ELEC3105": [
+                "CLO1",
+                "CLO4",
+                "CLO3",
+                "CLO2"
+            ],
+            "SOLA5052": [
+                "CLO2"
+            ],
+            "MECH9720": [
+                "CLO3"
+            ],
+            "GMAT1110": [
+                "CLO4"
+            ],
+            "SOLA5050": [
+                "CLO1"
+            ]
+        },
+        "3.2": {
+            "SOLA4951": [
+                "CLO5"
+            ],
+            "SOLA4952": [
+                "CLO5"
+            ],
+            "SOLA4953": [
+                "CLO5"
+            ],
+            "ELEC2911": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4",
+                "CLO5"
+            ],
+            "DESN2000": [
+                "CLO6"
+            ],
+            "SOLA2051": [
+                "CLO5"
+            ],
+            "ELEC2134": [
+                "CLO2"
+            ],
+            "BIOS1301": [
+                "CLO4"
+            ],
+            "SOLA5051": [
+                "CLO5"
+            ],
+            "SOLA5057": [
+                "CLO4",
+                "CLO3"
+            ],
+            "SOLA2060": [
+                "CLO2",
+                "CLO3"
+            ],
+            "SOLA2540": [
+                "CLO5",
+                "CLO1",
+                "CLO2",
+                "CLO6",
+                "CLO4",
+                "CLO3"
+            ],
+            "MATH1131": [
+                "CLO4"
+            ],
+            "ELEC1111": [
+                "CLO5",
+                "CLO6"
+            ],
+            "SOLA5053": [
+                "CLO2"
+            ],
+            "MATH1141": [
+                "CLO4"
+            ],
+            "MATH1241": [
+                "CLO4"
+            ],
+            "MECH9761": [
+                "CLO4"
+            ],
+            "SOLA3020": [
+                "CLO4"
+            ],
+            "GMAT1110": [
+                "CLO2"
+            ],
+            "MATH2089": [
+                "CLO5"
+            ],
+            "CVEN1701": [
+                "CLO2"
+            ],
+            "SOLA4012": [
+                "CLO5",
+                "CLO3"
+            ],
+            "DESN1000": [
+                "CLO6"
+            ],
+            "SOLA1070": [
+                "CLO4",
+                "CLO1",
+                "CLO2"
+            ],
+            "MINE1010": [
+                "CLO4",
+                "CLO3"
+            ],
+            "SOLA3010": [
+                "CLO5"
+            ],
+            "MATH1231": [
+                "CLO4"
+            ],
+            "ELEC3105": [
+                "CLO3"
+            ],
+            "SOLA5056": [
+                "CLO1"
+            ],
+            "MATH1081": [
+                "CLO3"
+            ],
+            "BABS1201": [
+                "CLO1"
+            ],
+            "SOLA5050": [
+                "CLO5"
+            ],
+            "SOLA3507": [
+                "CLO1"
+            ]
+        },
+        "3.3": {
+            "SOLA4951": [
+                "CLO1"
+            ],
+            "SOLA4952": [
+                "CLO1"
+            ],
+            "SOLA4953": [
+                "CLO1"
+            ],
+            "DESN2000": [
+                "CLO1",
+                "CLO2"
+            ],
+            "SOLA2051": [
+                "CLO4"
+            ],
+            "SOLA2060": [
+                "CLO2",
+                "CLO1"
+            ],
+            "SOLA2540": [
+                "CLO5",
+                "CLO4"
+            ],
+            "SOLA5056": [
+                "CLO5"
+            ],
+            "ELEC1111": [
+                "CLO5",
+                "CLO6",
+                "CLO7"
+            ],
+            "ELEC3105": [
+                "CLO1",
+                "CLO4",
+                "CLO3",
+                "CLO2"
+            ],
+            "GMAT1110": [
+                "CLO2"
+            ],
+            "SOLA5050": [
+                "CLO4",
+                "CLO5"
+            ],
+            "MINE1010": [
+                "CLO1",
+                "CLO3"
+            ],
+            "SOLA1070": [
+                "CLO4",
+                "CLO1"
+            ],
+            "SOLA5052": [
+                "CLO3"
+            ],
+            "MECH9761": [
+                "CLO1"
+            ],
+            "DESN1000": [
+                "CLO4",
+                "CLO2",
+                "CLO1"
+            ]
+        },
+        "3.4": {
+            "SOLA4951": [
+                "CLO2",
+                "CLO3"
+            ],
+            "SOLA4952": [
+                "CLO2",
+                "CLO3"
+            ],
+            "SOLA4953": [
+                "CLO2",
+                "CLO3"
+            ],
+            "ELEC2911": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4",
+                "CLO5"
+            ],
+            "DESN2000": [
+                "CLO4",
+                "CLO5"
+            ],
+            "SOLA5052": [
+                "CLO1",
+                "CLO2",
+                "CLO4"
+            ],
+            "GMAT1110": [
+                "CLO3"
+            ],
+            "SOLA5057": [
+                "CLO4",
+                "CLO3"
+            ],
+            "SOLA5050": [
+                "CLO3",
+                "CLO4",
+                "CLO2"
+            ],
+            "DESN1000": [
+                "CLO5",
+                "CLO6",
+                "CLO4"
+            ],
+            "SOLA5053": [
+                "CLO2"
+            ],
+            "MECH9761": [
+                "CLO4"
+            ],
+            "CVEN1701": [
+                "CLO2"
+            ],
+            "ELEC3105": [
+                "CLO4"
+            ],
+            "SOLA5056": [
+                "CLO1"
+            ]
+        },
+        "3.5": {
+            "SOLA4951": [
+                "CLO5"
+            ],
+            "SOLA4952": [
+                "CLO5"
+            ],
+            "SOLA4953": [
+                "CLO5"
+            ],
+            "ELEC2911": [
+                "CLO1",
+                "CLO2",
+                "CLO3",
+                "CLO4",
+                "CLO5"
+            ],
+            "DESN2000": [
+                "CLO4"
+            ],
+            "SOLA2051": [
+                "CLO3"
+            ],
+            "DESN1000": [
+                "CLO5",
+                "CLO6",
+                "CLO4"
+            ],
+            "SOLA5053": [
+                "CLO2"
+            ],
+            "SOLA3010": [
+                "CLO5"
+            ],
+            "MECH9720": [
+                "CLO3"
+            ]
+        },
+        "3.6": {
+            "DESN2000": [
+                "CLO4"
+            ],
+            "SOLA2051": [
+                "CLO4"
+            ],
+            "SOLA5050": [
+                "CLO3",
+                "CLO4",
+                "CLO2",
+                "CLO1"
+            ],
+            "MINE1010": [
+                "CLO2",
+                "CLO1",
+                "CLO4",
+                "CLO3"
+            ],
+            "SOLA2060": [
+                "CLO2"
+            ],
+            "SOLA2540": [
+                "CLO5"
+            ],
+            "SOLA5056": [
+                "CLO5"
+            ],
+            "DESN1000": [
+                "CLO5",
+                "CLO6",
+                "CLO4"
+            ],
+            "SOLA5053": [
+                "CLO2"
+            ],
+            "BIOS1301": [
+                "CLO5"
+            ],
+            "MECH9761": [
+                "CLO4"
+            ],
+            "GMAT1110": [
+                "CLO2"
+            ],
+            "CVEN1701": [
+                "CLO2",
+                "CLO4"
+            ]
+        }
+    }
+}

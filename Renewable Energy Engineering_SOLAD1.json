@@ -1,0 +1,255 @@
+{
+    "MMAN2700": {
+        "prerequisites": [
+            "MATH1131",
+            "DPST1013",
+            "MATH1141",
+            "PHYS1121",
+            "PHYS1131",
+            "DPST1021",
+            "DPST1023",
+            "PHYS1141"
+        ],
+        "exclusions": []
+    },
+    "COMP1511": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "COMP1911": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "ELEC2911": {
+        "prerequisites": [
+            "ELEC1111"
+        ],
+        "exclusions": []
+    },
+    "SOLA5051": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "PHYS1231": {
+        "prerequisites": [
+            "PHYS1131",
+            "DPST1023",
+            "PHYS1141",
+            "PHYS1121",
+            "MATH1231",
+            "DPST1014",
+            "MATH1241",
+            "MATH1251"
+        ],
+        "exclusions": []
+    },
+    "SOLA4012": {
+        "prerequisites": [
+            "SOLA2540"
+        ],
+        "exclusions": []
+    },
+    "SOLA2540": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "SOLA5053": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "MATH1141": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "SOLA5052": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "ENGG4102": {
+        "prerequisites": [
+            "ENGG3001"
+        ],
+        "exclusions": []
+    },
+    "ENGG1811": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "MATH2089": {
+        "prerequisites": [
+            "MATH1231",
+            "MATH1241",
+            "MATH1251",
+            "DPST1014"
+        ],
+        "exclusions": []
+    },
+    "SOLA9104": {
+        "prerequisites": [
+            "SOLA4012"
+        ],
+        "exclusions": []
+    },
+    "ELEC2134": {
+        "prerequisites": [
+            "ELEC1111",
+            "DPST1081",
+            "ELEC1112"
+        ],
+        "exclusions": []
+    },
+    "PHYS1121": {
+        "prerequisites": [
+            "MATH1131",
+            "DPST1013",
+            "MATH1141",
+            "MATH1151",
+            "MATH1011"
+        ],
+        "exclusions": []
+    },
+    "DESN1000": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "MATH1131": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "PHYS1221": {
+        "prerequisites": [
+            "PHYS1121",
+            "PHYS1131",
+            "DPST1021",
+            "DPST1023",
+            "PHYS1141",
+            "MATH1231",
+            "DPST1014",
+            "MATH1241",
+            "MATH1251"
+        ],
+        "exclusions": []
+    },
+    "SOLA2060": {
+        "prerequisites": [
+            "ELEC1111"
+        ],
+        "exclusions": []
+    },
+    "SOLA1070": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "SOLA9103": {
+        "prerequisites": [
+            "SOLA2540",
+            "SOLA9001"
+        ],
+        "exclusions": []
+    },
+    "MECH3610": {
+        "prerequisites": [
+            "ENGG2500",
+            "MMAN2600",
+            "MMAN2700"
+        ],
+        "exclusions": []
+    },
+    "SOLA5056": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "ENGG3001": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "MATH2018": {
+        "prerequisites": [
+            "MATH1231",
+            "MATH1241",
+            "MATH1251",
+            "DPST1014"
+        ],
+        "exclusions": []
+    },
+    "SOLA2051": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "ELEC4122": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "MATH2019": {
+        "prerequisites": [
+            "MATH1231",
+            "MATH1241",
+            "MATH1251",
+            "DPST1014"
+        ],
+        "exclusions": []
+    },
+    "PHYS1131": {
+        "prerequisites": [
+            "MATH1131",
+            "DPST1013",
+            "MATH1141",
+            "MATH1151",
+            "MATH1011"
+        ],
+        "exclusions": []
+    },
+    "SOLA3010": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "SOLA5057": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "MATH1241": {
+        "prerequisites": [
+            "MATH1131",
+            "MATH1141",
+            "DPST1013"
+        ],
+        "exclusions": []
+    },
+    "ELEC1111": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "MATH1231": {
+        "prerequisites": [
+            "MATH1131",
+            "MATH1141",
+            "DPST1013"
+        ],
+        "exclusions": []
+    },
+    "ENGG2500": {
+        "prerequisites": [
+            "MATH1131",
+            "DPST1013",
+            "MATH1141",
+            "PHYS1121",
+            "PHYS1131",
+            "PHYS1141",
+            "DPST1021",
+            "DPST1023"
+        ],
+        "exclusions": []
+    },
+    "MECH9720": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "DESN2000": {
+        "prerequisites": [],
+        "exclusions": []
+    },
+    "GSOE9111": {
+        "prerequisites": [],
+        "exclusions": []
+    }
+}
