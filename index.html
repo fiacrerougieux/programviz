@@ -234,6 +234,7 @@
                 x: x_labels,
                 y: combined_competency_labels,
                 colorscale: 'YlOrRd',
+                reversescale: true,
                 zmin: 0,
                 zmax: isCumulative ? 100 : 100,
                 colorbar: { title: isCumulative ? "Cumulative CLOs (%)" : "Percentage of CLOs" }
@@ -541,6 +542,7 @@
                         y: combinedSdgLabels,
                         type: 'heatmap',
                         colorscale: 'YlOrRd',
+                        reversescale: true,
                         zmin: 0,
                         zmax: 100,
                         colorbar: {
@@ -690,6 +692,7 @@
                         y: combinedSdgLabels,
                         type: 'heatmap',
                         colorscale: 'YlOrRd',
+                        reversescale: true,
                         zmin: 0,
                         zmax: 400,
                         colorbar: {
@@ -822,7 +825,7 @@
                         polar: {
                             radialaxis: {
                                 visible: true,
-                                range: [0, 100],
+                                range: [0, 20],
                                 tickvals: [0, 25, 50, 75, 100],
                                 ticktext: ['0%', '25%', '50%', '75%', '100%'],
                                 tickfont: { size: 12 },
