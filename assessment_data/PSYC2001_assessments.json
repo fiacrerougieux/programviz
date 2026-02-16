@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Assignment",
+        "description": "Critique of a published experiment's analysis, requiring a 4-page report answering specific questions about the outcome and interpretation.",
+        "weight": "25%"
+    },
+    {
+        "item": "Weekly quizzes",
+        "description": "Weekly online quizzes with 5 multiple-choice questions each, allowing multiple attempts and contributing to 10% of the final mark.",
+        "weight": "10%"
+    },
+    {
+        "item": "Final exam",
+        "description": "Two-hour closed-book exam on campus using Inspera, covering inferential procedures and research methodology with short-answer and multiple-choice questions.",
+        "weight": "45%"
+    },
+    {
+        "item": "Mid term test",
+        "description": "45-minute open-book test in Week 5 covering Weeks 1-4 material, with multiple-choice and short-answer questions.",
+        "weight": "20%"
+    }
+]

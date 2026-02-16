@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Coding Project 1",
+        "description": "Assesses MapReduce programming skills, manually evaluated by course tutors with rubric-based feedback",
+        "weight": "12%"
+    },
+    {
+        "item": "Coding Project 2",
+        "description": "Assesses Spark programming skills, manually evaluated by course tutors with rubric-based feedback",
+        "weight": "16%"
+    },
+    {
+        "item": "Coding Project 3",
+        "description": "Assesses Spark programming skills using a cloud computing platform (e.g., Google Dataproc), manually evaluated by course tutors with rubric-based feedback",
+        "weight": "22%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "Assesses MapReduce, Spark programming, and algorithm design for big data analytics, manually marked by tutors with feedback upon request",
+        "weight": "50%"
+    }
+]

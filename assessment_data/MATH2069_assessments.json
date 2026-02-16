@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Online Quizzes",
+        "description": "5 weekly online quizzes (first 5 weeks) with 2 vector calculus and 2 complex analysis questions each. Unlimited attempts with best 4 out of 5 marks counted. Includes automated feedback.",
+        "weight": "10%"
+    },
+    {
+        "item": "Class tests",
+        "description": "Two 40-minute in-class tests during Week 8 covering vector calculus and complex analysis. Provides progress feedback before the final exam.",
+        "weight": "30%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour exam during the official university examination period. Covers all course topics with 4 free-form questions. Requires minimum 40% in each component (Vector Calculus and Complex Analysis) and overall 50% to pass.",
+        "weight": "60%"
+    }
+]

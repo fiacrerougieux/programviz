@@ -1,0 +1,22 @@
+[
+    {
+        "item": "New Technology Report",
+        "description": "800-word report describing a new technological method for generating data and proposing an experiment to explore the natural world",
+        "weight": "15%"
+    },
+    {
+        "item": "Communicating Results Report",
+        "description": "2000-word scientific report results section with data analysis, figures, and findings from class-collected field data",
+        "weight": "30%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "2-hour online exam with 40 multiple choice and short answer questions covering all course material",
+        "weight": "40%"
+    },
+    {
+        "item": "Quiz",
+        "description": "1-hour online test with 20 questions (multiple choice, short answers, calculations) on quantitative analyses from weeks 1-3",
+        "weight": "15%"
+    }
+]

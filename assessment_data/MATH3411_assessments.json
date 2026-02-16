@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Test 1",
+        "description": "Online test assessing knowledge of Chapters 1 and 2. Includes problem-solving and multiple-choice questions with a 30-minute time limit during Week 4.",
+        "weight": "10%"
+    },
+    {
+        "item": "Test 2",
+        "description": "Online test assessing knowledge of Chapter 3. Includes problem-solving and multiple-choice questions with a 45-minute time limit during Week 7.",
+        "weight": "15%"
+    },
+    {
+        "item": "Test 3",
+        "description": "Online test assessing knowledge of Chapters 4 and 5. Includes problem-solving and multiple-choice questions with a 45-minute time limit during Week 10.",
+        "weight": "15%"
+    },
+    {
+        "item": "Final exam",
+        "description": "On-campus 3-hour exam during the official examination period. Assesses all course content with numerical/short answer responses and multiple-choice questions. Hurdle requirement: 50% total final mark to pass.",
+        "weight": "60%"
+    }
+]

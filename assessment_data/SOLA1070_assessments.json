@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Assignment 1",
+        "description": "Critical thinking assignment involving arguments for/against renewable energy transition statements using generative AI. Students spend 10-12 hours.",
+        "weight": "15%"
+    },
+    {
+        "item": "Online Quizzes",
+        "description": "Three quizzes assessing course content: Quiz 1 (untimed, 4-5 hours), Quizzes 2-3 (timed, 1 hour each). Feedback provided post-deadline.",
+        "weight": "45%"
+    },
+    {
+        "item": "Assignment 2",
+        "description": "Gameplay assessment using PlayEnergy to evaluate renewable energy scenarios. Requires ~20 hours of gameplay throughout term.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam (Interview)",
+        "description": "15-minute oral interview examining comprehensive course knowledge.",
+        "weight": "20%"
+    }
+]

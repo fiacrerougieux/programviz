@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Final Theory Examination",
+        "description": "2-hour 15-minute examination with multiple-choice and short answer questions assessing content from weeks 1-10. Tests recollection, understanding, and application of forensic anthropology principles.",
+        "weight": "40%"
+    },
+    {
+        "item": "Forensic Case Assignment",
+        "description": "Group assessment involving anthropological investigation of skeletal remains. Includes a written report (12.5%), peer review (5%), and oral presentation (2.5%). Evaluates analysis accuracy, communication skills, and peer collaboration.",
+        "weight": "20%"
+    },
+    {
+        "item": "Spot Test 2",
+        "description": "1-hour practical test during exam period assessing identification of human bones, application of forensic techniques, and analysis of skeletal remains from second half of term.",
+        "weight": "20%"
+    },
+    {
+        "item": "Spot Test 1",
+        "description": "1-hour practical test in Week 5 assessing identification of human bones, application of forensic techniques, and analysis of skeletal remains from first half of term.",
+        "weight": "20%"
+    }
+]

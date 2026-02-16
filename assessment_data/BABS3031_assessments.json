@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Term Test",
+        "description": "Online test with quantitative and qualitative questions covering weeks 1-4 material, including multiple choice and short answer, conducted on campus with invigilation",
+        "weight": "20%"
+    },
+    {
+        "item": "Laboratory work",
+        "description": "Written report on three wet labs conducted in weeks 4-8, including figures, tables, and guided discussions, submitted electronically",
+        "weight": "23%"
+    },
+    {
+        "item": "Major Assignment",
+        "description": "Series of tasks using Berkley Madonna software for bioprocess analysis, with training provided in weeks 2-3, submitted electronically",
+        "weight": "22%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour examination covering weeks 5-10 content, conducted on campus with open-book format using Safe Exam Browser",
+        "weight": "35%"
+    }
+]

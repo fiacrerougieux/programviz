@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Assignment",
+        "description": "Written assignment covering Weeks 1-7 material with theoretical and R-based computational tasks",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour exam covering all course content, testing conceptual understanding and application including pseudocode requirements",
+        "weight": "60%"
+    },
+    {
+        "item": "Mid Term Test",
+        "description": "1.5-hour test covering Weeks 1-4 material with hand-written and computational tasks",
+        "weight": "20%"
+    }
+]

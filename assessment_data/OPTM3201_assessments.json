@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Image analysis and perception report",
+        "description": "Short written report evaluating lighting parameters and scene information modeling. Involves data collection, analysis using R software, and writing results/discussion sections of a scientific research report.",
+        "weight": "20%"
+    },
+    {
+        "item": "Lens design assignment",
+        "description": "Computer-aided lens design task using simulation software to create optical systems. Graded on simulation accuracy and responses to theoretical/practical concepts in optical system design.",
+        "weight": "20%"
+    },
+    {
+        "item": "Lighting assignment sheet and quiz",
+        "description": "Field measurements of luminance/illuminance followed by problem-solving applications of lighting concepts. Includes quiz component on lighting evaluation principles.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final theory exam",
+        "description": "2-hour exam with short answer, multiple choice, essay and problem-solving questions covering all course content (OCT, Confocal Microscopy, lens design, lighting evaluation).",
+        "weight": "40%"
+    }
+]

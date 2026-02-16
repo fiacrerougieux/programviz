@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Learning blog",
+        "description": "Five short reflective blog posts (200-300 words each) on lab experiences, open science practices, and R coding progress. Includes peer feedback comments. Submitted in Weeks 1,3,5,7,9.",
+        "weight": "10%"
+    },
+    {
+        "item": "Take home test",
+        "description": "Individual RMarkdown report demonstrating data wrangling/visualization skills using a provided dataset. Requires code implementation and explanatory comments. 48-hour completion window in Week 4.",
+        "weight": "15%"
+    },
+    {
+        "item": "Group presentation",
+        "description": "10-minute team presentation in Week 8 labs covering verification project outcomes, challenges faced, reproducibility insights, and teamwork reflections. Includes peer contribution evaluations (10% group work component).",
+        "weight": "30%"
+    },
+    {
+        "item": "Verification report",
+        "description": "Individual report in two parts: Part A verifies reproduced analyses with R code/commentary (Week 9), Part B explores additional research questions (study week). Includes open science recommendations. Combines technical implementation and critical evaluation.",
+        "weight": "45%"
+    }
+]

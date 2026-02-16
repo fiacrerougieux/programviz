@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Individual Assignment",
+        "description": "Independent research and written report on applying mathematical models to a real-world problem, including draft submission, peer feedback integration, and final submission with mathematical typesetting.",
+        "weight": "20%"
+    },
+    {
+        "item": "Peer Feedback",
+        "description": "Providing constructive written feedback on peers' Individual Assignment drafts and Group Project presentations, assessed for quality of critique.",
+        "weight": "5%"
+    },
+    {
+        "item": "Class Test",
+        "description": "2-hour test covering mathematical and conceptual problems from weeks 1-7 content, with a 50% hurdle requirement to pass the course.",
+        "weight": "45%"
+    },
+    {
+        "item": "Group Project",
+        "description": "Collaborative project involving mathematical analysis of a real-world problem, including background research, model development, coding, group presentation (5%), and written report (25%). Individual contributions may affect final marks.",
+        "weight": "30%"
+    }
+]

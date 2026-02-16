@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Technical Assessment",
+        "description": "Individual technical tasks including online quizzes, practical demonstrations, and performance milestones related to selected technical streams",
+        "weight": "20%"
+    },
+    {
+        "item": "Project Assessment",
+        "description": "Group project involving a design challenge with components: Design Proposal, Design Journal, and Design Report and Competition, assessed on design process, outcomes, and teamwork",
+        "weight": "60%"
+    },
+    {
+        "item": "Faculty Assessment",
+        "description": "Group tasks including an impromptu design challenge, reflective writing task, and engineering design presentation assessed on communication and design quality",
+        "weight": "20%"
+    }
+]

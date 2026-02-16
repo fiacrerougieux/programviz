@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Class test",
+        "description": "45-minute in-person written test covering tutorial questions and lecture content from weeks 1-3, including finite difference approximations and finite element methods",
+        "weight": "15%"
+    },
+    {
+        "item": "Computing test",
+        "description": "90-minute lab-based programming test requiring implementation of numerical methods (finite difference schemes, PDE solvers) covered in weeks 1-5, with graphical output requirements",
+        "weight": "15%"
+    },
+    {
+        "item": "Assignment",
+        "description": "Programming-focused task involving PDE modeling applications with some theory questions. Includes substantial code development (~400 lines) and report writing, due in Week 10",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour written examination covering all course content with emphasis on mathematical concepts, potentially including pseudo-code writing. Features four multi-part questions",
+        "weight": "50%"
+    }
+]

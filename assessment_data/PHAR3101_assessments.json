@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Quizzes",
+        "description": "30-minute quizzes held 4 times per term with short/long answer questions testing knowledge of drug design/development processes. Includes application of lecture/workshop content to scenarios.",
+        "weight": "30%"
+    },
+    {
+        "item": "Technical Report",
+        "description": "Individual technical report analyzing practical class data using developed assay protocols. Includes group protocol development with peer evaluation (5%) and individual analysis (15%).",
+        "weight": "20%"
+    },
+    {
+        "item": "Career opportunities within the drug development industry",
+        "description": "Group project involving research on pharmaceutical industry roles, creation of career profiles, and video-recorded mock job interviews addressing selection criteria.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final examination",
+        "description": "2-hour exam with short/long answer questions testing comprehensive knowledge of drug discovery/development processes and application of course content.",
+        "weight": "30%"
+    }
+]

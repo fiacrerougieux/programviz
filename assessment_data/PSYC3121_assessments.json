@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Think tank write-up",
+        "description": "Individual written assessment proposing a study addressing a research question, including rationale, methodology, analysis plans, predicted outcomes, and limitations (1500 words).",
+        "weight": "35%"
+    },
+    {
+        "item": "Tutorial preparation and participation activities",
+        "description": "Individual participation in weekly tutor-led group activities (8%), online tutorial activities (3%), and self-test quizzes (4%) to complement course content.",
+        "weight": "15%"
+    },
+    {
+        "item": "Final exam",
+        "description": "Individual exam testing knowledge of lectures, online activities, readings, and tutorials via multiple choice, fill-in-the-blank, and short essay questions.",
+        "weight": "40%"
+    },
+    {
+        "item": "Think tank group presentation",
+        "description": "Group presentation (10 minutes + 5-minute Q&A) detailing a research question, proposed study rationale, hypotheses, methodology, and planned analyses. Includes peer evaluations.",
+        "weight": "10%"
+    }
+]

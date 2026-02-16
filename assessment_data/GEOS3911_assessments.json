@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Class Test A",
+        "description": "50-minute supervised test with 15 mixed short answer and multiple choice questions covering Weeks 1-4 content. Conducted in Week 4 tutorial.",
+        "weight": "15%"
+    },
+    {
+        "item": "Environmental Impact Statement Summary",
+        "description": "2500-word professional summary report predicting environmental impacts for a case study, formatted as a mock EIS Summary for general audiences. Due Week 7.",
+        "weight": "35%"
+    },
+    {
+        "item": "Class Test B",
+        "description": "45-minute supervised test focusing on policies, legislation and EIA methods from Week 5 onwards, with 10 mixed questions including opinion-based responses. Conducted in Week 9 tutorial.",
+        "weight": "15%"
+    },
+    {
+        "item": "Environmental Management Plan",
+        "description": "2500-word professional report creating an environmental management plan based on impacts identified in the EIS Summary (same case study). Due Week 10.",
+        "weight": "35%"
+    }
+]

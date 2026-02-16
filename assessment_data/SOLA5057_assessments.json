@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Assignment 1 and 2",
+        "description": "Two assignments: Energy Audit (20%) and Co-generation analysis (20%), focusing on personal energy use, transport emissions, and UNSW energy practices",
+        "weight": "40%"
+    },
+    {
+        "item": "Lab work",
+        "description": "Laboratory sessions on power factor correction and variable speed drives",
+        "weight": "12%"
+    },
+    {
+        "item": "Quizzes",
+        "description": "Individual quizzes testing understanding of energy efficiency principles and cost analysis",
+        "weight": "8%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour comprehensive examination covering energy efficiency principles, systems approaches, and audit methodologies",
+        "weight": "40%"
+    }
+]

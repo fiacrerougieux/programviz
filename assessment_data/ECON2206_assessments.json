@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Storywall Discussion Participation",
+        "description": "Weekly discussions to practice concepts, reinforce learning through peer interaction, and link course material to real-world applications.",
+        "weight": "5%"
+    },
+    {
+        "item": "Problem Sets",
+        "description": "Hands-on exercises using statistical software (STATA) to analyze data, interpret regression results, and evaluate model quality. Two sets due in Weeks 4 & 10.",
+        "weight": "20%"
+    },
+    {
+        "item": "In-session Test",
+        "description": "Online test with MCQs and structured questions assessing econometric theory understanding, covering content from Weeks 1-4. Conducted in Week 7.",
+        "weight": "30%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "Two-hour exam during UNSW exam period with MCQs and constructed response questions testing econometric concepts, model interpretation, and real-world application.",
+        "weight": "45%"
+    }
+]

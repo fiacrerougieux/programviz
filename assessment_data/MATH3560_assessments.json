@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Presentation",
+        "description": "5-minute video comparing Pythagoras' Theorem understanding in ancient Mesopotamia and another chosen culture (Egypt, India, China, or Greece), with PowerPoint slides. Assessed on delivery, research accuracy, and presentation cohesion.",
+        "weight": "20%"
+    },
+    {
+        "item": "Assignment",
+        "description": "Exercises covering weeks 1-2 content, focusing on problem-solving and computations using ancient methods. Provides initial feedback on Arithmetic and Algorithms sections.",
+        "weight": "5%"
+    },
+    {
+        "item": "Class Test",
+        "description": "1-hour mid-session test during week 5 assessing weeks 1-4 content. Emphasizes problem-solving and computations, particularly in Basic Geometry.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour paper-based exam covering all course content, including historical approaches to arithmetic, algorithms, and geometry. Features MCQ, short numerical, and short answer questions.",
+        "weight": "55%"
+    }
+]

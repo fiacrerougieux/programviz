@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Online quizzes",
+        "description": "Ten weekly online quizzes accompanying pre-recorded lectures, involving exercises and MATLAB usage for statistical analysis. Immediate feedback provided after submission.",
+        "weight": "20%"
+    },
+    {
+        "item": "Mid-term Test",
+        "description": "40-minute test in Week 7 covering first 5 weeks' content, conducted in computing labs. Includes multiple-choice questions, numerical/text responses, and MATLAB tasks for statistical analysis.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final exam",
+        "description": "1-hour exam during university examination period assessing all course content. Features multiple question formats including MATLAB data analysis tasks. Feedback available through course convenor inquiry.",
+        "weight": "60%"
+    }
+]

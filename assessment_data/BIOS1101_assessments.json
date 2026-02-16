@@ -1,0 +1,27 @@
+[
+    {
+        "item": "Practical test",
+        "description": "In-person test during week 10 practical class with specimen stations assessing plant/animal form, function, adaptation, and lab techniques. Includes 20 questions on practical content.",
+        "weight": "15%"
+    },
+    {
+        "item": "Practical Exercise 1",
+        "description": "Online tutorial and quiz covering scientific theory, evolution, and natural selection. Completed in week 3 with immediate answer feedback.",
+        "weight": "5%"
+    },
+    {
+        "item": "Practical Exercise 2",
+        "description": "In-class dissection worksheet requiring biological drawings of rat/toad anatomy, organ/structure identification, and form/function questions. Completed in week 5.",
+        "weight": "15%"
+    },
+    {
+        "item": "Practical Exercise 3",
+        "description": "Darwinian plant demon design task requiring theoretical creation of adapted plant based on form, function, and plasticity concepts. Submitted online in week 8.",
+        "weight": "15%"
+    },
+    {
+        "item": "Final exam",
+        "description": "50 multiple-choice questions testing lecture content on evolutionary biology and physiology during official exam period.",
+        "weight": "50%"
+    }
+]

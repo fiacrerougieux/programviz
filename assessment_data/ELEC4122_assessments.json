@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Group work reflection with individual report",
+        "description": "500-word written reflection on personal responses to group work situations and skill development during seminars",
+        "weight": "15%"
+    },
+    {
+        "item": "Exams",
+        "description": "Two 1-hour written exams testing critical thinking, application of ethics/leadership concepts, and case study analysis (Weeks 4 & 9)",
+        "weight": "40%"
+    },
+    {
+        "item": "Active Contribution to Seminars",
+        "description": "Weekly assessed participation in discussions, debates, and team leadership activities during seminars (Weeks 1-5 & 7-10)",
+        "weight": "15%"
+    },
+    {
+        "item": "Group Seminar Presentations",
+        "description": "Collaborative preparation and presentation of seminar assignments with peer interaction and consensus-building (Weeks 5 & 10)",
+        "weight": "30%"
+    }
+]

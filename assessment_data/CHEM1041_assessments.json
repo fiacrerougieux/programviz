@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Laboratory work",
+        "description": "Weekly practical lab classes assessing core skills (hurdle requirement) and non-core skills through lab book questions. Involves data analysis, safe practices, and linking experiments to theory.",
+        "weight": "20%"
+    },
+    {
+        "item": "Weekly revision quizzes",
+        "description": "9 online quizzes testing fundamental principles from weekly topics. Best 7 marks counted. Includes 3 attempts per quiz with feedback. Covers organic/inorganic chemistry, stereochemistry, and reaction mechanisms.",
+        "weight": "10%"
+    },
+    {
+        "item": "Midterm tests",
+        "description": "Two in-person tests (Week 5 and Week 9) covering topics 1-4 and 5-8 respectively. Includes MCQ, numerical, and short-answer questions. Feedback provided on learning outcomes for incorrect answers.",
+        "weight": "30%"
+    },
+    {
+        "item": "Final exam",
+        "description": "Comprehensive online exam covering all course content. 2 hours 10 minutes duration with MCQ, chemical mechanism diagrams, and short answers. Requires chemDoodle software for drawing responses.",
+        "weight": "40%"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Weekly Question Sets",
+        "description": "Weekly calculation/short-answer assignments or multiple-choice quizzes focusing on engagement with content. Marks allocated based on demonstration of understanding rather than answer accuracy.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2-hour exam covering all course topics (lectures, tutorials, workshops) with short numerical and answer responses during the official examination period.",
+        "weight": "60%"
+    },
+    {
+        "item": "Laboratory",
+        "description": "Three 3-hour lab sessions culminating in a final experimental report on classical mechanics/relativity experiments. Includes draft report submission (6%), final report (10%), and oral exam (4%).",
+        "weight": "20%"
+    }
+]

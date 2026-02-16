@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Practical exercises",
+        "description": "Written responses to laboratory exercises assessing understanding of phylogenetic concepts and analyses. Includes weekly reports submitted after each practical session.",
+        "weight": "45%"
+    },
+    {
+        "item": "Presentation",
+        "description": "6-minute oral presentation on phylogenetic theory or analysis of a taxonomic group, including answering questions. Presented to peers during class.",
+        "weight": "20%"
+    },
+    {
+        "item": "Smths Lake field trip assignment",
+        "description": "Fieldwork involving collecting and identifying insect taxa, curating specimens, conducting phylogenetic analysis, and presenting results. Includes tasks during the compulsory field trip.",
+        "weight": "35%"
+    }
+]

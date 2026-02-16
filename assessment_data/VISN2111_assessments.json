@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Mid Term Test",
+        "description": "Two online mid term tests (middle and end of term, up to 60 mins) including MCQs, diagrams and short answers examining content relating to identifying anatomical features of eye and associated tissues",
+        "weight": "35%"
+    },
+    {
+        "item": "Weekly Quiz",
+        "description": "Eight weekly quizzes including MCQs, diagrams and short answers assessing the content covered in the previous week's practicals or tutorials (best 6/8 quizzes counted)",
+        "weight": "15%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "Final examination (up to 2 hours) including MCQs, diagrams and short answers assessing all course content",
+        "weight": "50%"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Report",
+        "description": "5-10 page individual research project report submitted in Week 10, assessed on literature review, understanding of principles, clarity, arguments, techniques, results presentation, and suggestions for further work",
+        "weight": "50%"
+    },
+    {
+        "item": "Research performance",
+        "description": "Individual assessment of research conduct including experimental work, data analysis, theoretical calculations, approach to problem-solving, preparation, independence, diligence, and technique",
+        "weight": "30%"
+    },
+    {
+        "item": "Seminar",
+        "description": "10-minute individual or partnered presentation to academics and peers covering project motivation, process, results, assessed on explanation clarity, presentation quality, results relevance, and delivery",
+        "weight": "20%"
+    }
+]

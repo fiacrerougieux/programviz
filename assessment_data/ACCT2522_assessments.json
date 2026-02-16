@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Learning Progress Quiz 1",
+        "description": "In-class individual quiz during Week 4 tutorial testing understanding of key concepts and techniques introduced in early course content",
+        "weight": "10%"
+    },
+    {
+        "item": "Business Report",
+        "description": "Group report applying course frameworks to analyze a business case, containing quantitative analyses and recommendations with peer evaluation component",
+        "weight": "20%"
+    },
+    {
+        "item": "Learning Progress Quiz 2",
+        "description": "In-class individual quiz during Week 9 tutorial assessing understanding of concepts and techniques from middle course content",
+        "weight": "15%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour individual invigilated exam plus 15 minutes reading time, conducted on Inspera platform covering all course content",
+        "weight": "55%"
+    }
+]

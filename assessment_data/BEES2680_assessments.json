@@ -1,0 +1,27 @@
+[
+    {
+        "item": "Introductory Exercises",
+        "description": "Three short answer exercises in reading, writing, and critical thinking skills (each under 300 words) with feedback provided via Turnitin and virtual classes.",
+        "weight": "20%"
+    },
+    {
+        "item": "Science in Society Presentation Part A",
+        "description": "Storyboard a presentation on a Science in Society topic (under 200 words + three example slides) due in Week 5.",
+        "weight": "15%"
+    },
+    {
+        "item": "Science in Society Presentation Part B",
+        "description": "Four-minute PowerPoint video presentation using dramatic story arc technique, demonstrating presentation skills (eye contact, gesturing, pitch/tone) based on Part A feedback. Due in Week 7.",
+        "weight": "25%"
+    },
+    {
+        "item": "Science in Society Essay Part A",
+        "description": "Draft outline and research steps (600 words) using 'And, But, Therefore' technique for discursive essay. Due in Week 8.",
+        "weight": "10%"
+    },
+    {
+        "item": "Science in Society Essay Part B",
+        "description": "1,500-word discursive essay using primary literature and academic references, incorporating feedback from Part A. Due in Week 10.",
+        "weight": "30%"
+    }
+]

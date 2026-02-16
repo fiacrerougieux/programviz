@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Assignment",
+        "description": "Answer questions with written explanations of phenomena related to mechanical behaviour of metals based on dislocation theory. Includes peer feedback and revision process (~500 words).",
+        "weight": "10%"
+    },
+    {
+        "item": "Mid-Term Test",
+        "description": "2-hour test covering Weeks 1-5 content with calculations, short answers, and problem-solving. Includes three 2% practice quizzes in Weeks 2/4/5.",
+        "weight": "40%"
+    },
+    {
+        "item": "Tutorial Work",
+        "description": "Numerically-based problems interpreting research data and using theoretical models to predict alloy behaviour, focusing on strengthening mechanisms and microstructural effects.",
+        "weight": "10%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "2-hour exam during finals period covering Weeks 5-10 content. Includes short answer questions, calculations, and analysis of experimental data to predict material behaviour.",
+        "weight": "40%"
+    }
+]

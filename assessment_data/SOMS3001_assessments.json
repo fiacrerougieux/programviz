@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Research Engagement",
+        "description": "Supervisor evaluation of engagement with research group activities, attendance at meetings, practical/experimental skills, and productivity throughout the internship. Includes assessment of laboratory/research notebook and data handling.",
+        "weight": "20%"
+    },
+    {
+        "item": "Research Report",
+        "description": "2000-word scientific report containing abstract, background, methods, results, discussion, and references based on internship findings. Requires critical evaluation of literature, clear methodology, data presentation, and contextual analysis.",
+        "weight": "50%"
+    },
+    {
+        "item": "Journal Club Presentation",
+        "description": "20-minute oral presentation (15 minutes + 5 Q&A) critically evaluating peer-reviewed articles relevant to the research project. Requires analysis of methods/results, connection to internship goals, and demonstration of understanding through visual aids and responses to questions.",
+        "weight": "30%"
+    }
+]

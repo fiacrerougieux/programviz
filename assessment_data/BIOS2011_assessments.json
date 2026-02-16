@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Science Communication Project",
+        "description": "Individual project involving reflections and written reports on science papers to assess communication skills and understanding. Includes collaboration for learning but individual submissions.",
+        "weight": "15%"
+    },
+    {
+        "item": "Lab Work",
+        "description": "Individual lab experiment involving designing, conducting, and analyzing data. Tasks include experimental design, introduction and methods writing, and a final report.",
+        "weight": "40%"
+    },
+    {
+        "item": "Lecture Tests",
+        "description": "Three individual tests with short answer and multiple-choice questions assessing lecture content understanding.",
+        "weight": "30%"
+    },
+    {
+        "item": "Data Analysis Task",
+        "description": "Group project involving two short data analysis tasks interpreting class-collected data, with group submissions.",
+        "weight": "15%"
+    }
+]

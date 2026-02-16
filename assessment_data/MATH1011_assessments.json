@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Weekly Lessons",
+        "description": "Weekly Numbas lessons covering Algebra, Calculus, and Maple via Moodle with instant feedback. Best 6 out of 9 weeks count towards grade. Includes hand calculations and technology-aided problems.",
+        "weight": "10%"
+    },
+    {
+        "item": "Lab Tests",
+        "description": "Two supervised in-person tests (40 minutes each) with mixed hand-solved and Maple questions. Lab Test 1 (Week 4) and Lab Test 2 (Week 9) each contribute 15%. Unlimited practice attempts provided.",
+        "weight": "30%"
+    },
+    {
+        "item": "Assignment",
+        "description": "Typed mathematical communication task using Word/LaTeX with focus on clarity and correctness. Individualized questions released in Week 5, due Week 7. Graded on explanation quality and presentation.",
+        "weight": "10%"
+    },
+    {
+        "item": "Final examination",
+        "description": "2-hour supervised Numbas exam during exam period covering all course content (50 multiple-choice questions). Includes Maple-related questions. Conducted in computer labs with pre-exam practice materials.",
+        "weight": "50%"
+    }
+]

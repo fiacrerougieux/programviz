@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Final Exam",
+        "description": "2-hour written examination covering all course topics with emphasis on latter half of material. Includes problem-solving on differential geometry, topology of curves/surfaces, and classification of surfaces. Hurdle requirement: 50% needed to pass course.",
+        "weight": "60%"
+    },
+    {
+        "item": "Assignment",
+        "description": "Individual written assignment covering first five weeks of lectures (differential curves/surfaces, fundamental forms). Provided in Week 7 and due in Week 9.",
+        "weight": "15%"
+    },
+    {
+        "item": "Class Test",
+        "description": "45-minute test in Week 5 assessing initial course material. Includes problem-solving and stating definitions/theorems from differential geometry of curves/surfaces.",
+        "weight": "25%"
+    }
+]

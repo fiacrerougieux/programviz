@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Weekly Project Workbook",
+        "description": "Interactive Moodle workbook tasks completed weekly with group and individual components. Includes project documentation, interdisciplinary collaboration, and reflection. Submissions split between Weeks 1-5 and 7-9 with hurdle requirements.",
+        "weight": "55%"
+    },
+    {
+        "item": "Thinking Like a Scientist: Team-Based Learning Activities",
+        "description": "Weekly pre-class quizzes followed by group discussions and individual quiz retakes during class. Combines individual preparation (70%) and post-discussion performance (30%). Best 6 weekly scores counted.",
+        "weight": "30%"
+    },
+    {
+        "item": "Presenting Your Project",
+        "description": "Individual 5-10 minute project pitch in Week 10 demonstrating disciplinary contributions to an interdisciplinary challenge. Uses slides/videos/models to communicate scientific relevance.",
+        "weight": "15%"
+    }
+]

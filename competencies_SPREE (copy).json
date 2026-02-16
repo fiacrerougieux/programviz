@@ -1,0 +1,3264 @@
+{
+    "1": {
+        "1.1": {
+            "SOLA4951": {
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2911": {
+                "CLO1": {
+                    "description": "Explain the basic operation of single- phase and three-phase AC systems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate real and reactive power and power factor in single-phase and three-phase systems",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Explain the basic operation of transformers",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Describe the operation of power electronic converters, their interface to electrical networks, and perform basic calculations",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Describe the characteristics and applications of electromechanical machines in renewable energy systems and perform basic calculations",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2051": {
+                "CLO1": {
+                    "description": "Analyse simple data acquisition systems based on debugging and designing simple electronic circuits",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate and explain the functioning and engineering aspects of photovoltaic cells and modules, concentrators, boost converters and systems for thermal management",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2134": {
+                "CLO1": {
+                    "description": "Apply transform methods to analyse continuous-time linear systems.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe how signals and linear systems interact in the time and frequency domain, by correctly applying analytical tools.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Analyse simple and complex electric and magnetic circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Explain and analyse the behaviour of circuits with steady-state AC, periodic and transient voltages and currents. Hurdle rules You must pass the final exam to pass the course.",
+                    "relevant_assessments": []
+                }
+            },
+            "PHYS1231": {
+                "CLO5": {
+                    "description": "Model the behaviour of non-uniform objects using appropriate mathematical techniques.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Safely conduct experiments in a modern physics laboratory and analyse the results, including reliable estimates of the uncertainties in the measurements.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Apply critical thinking skills in a range of advanced conceptual physical situations.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Use appropriate mathematical techniques, including calculus, to solve problems involving electromagnetism, optics and introductory quantum mechanics.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Draw and interpret graphs and diagrams to describe physical phenomena.",
+                    "relevant_assessments": []
+                }
+            },
+            "MMAN2700": {
+                "CLO4": {
+                    "description": "Carry out, on working machinery, measurements of thermodynamic and mechanical properties and identify links between theoretical analysis methods and actual performance.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate knowledge of key concepts of thermodynamics such as heat, work, internal energy.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply the 2nd law of thermodynamics to analyse the behaviour of internal combustion engines (air-standard cycles), vapour and refrigeration cycles",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Apply the 1st law of thermodynamics to solve steady-state problems on closed and open systems.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3010": {
+                "CLO3": {
+                    "description": "Assess solar access at a site using manual methods and/or software",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Determine the heat transfer, thermal comfort and lighting performance of a building using manual methods and software, and apply appropriate passive solar and low energy",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Estimate the temperature of BIPV installations and the thermal impact of PV on buildings.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Write a technical report that assesses the performance of various designs of low energy buildings and BIPV systems.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the relationship between building design and thermal and lighting performance, heating, cooling and lighting loads, and human comfort in buildings",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO3": {
+                    "description": "Undertake basic survey computations from raw field observations to support a range of surveying and engineering applications such as levelling and terrain representation, area and volume calculations, traversing and construction set out.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Demonstrate skill with various surveying instruments, forward planning for survey tasks, production of clear field notes and redundant field checks to ensure accuracy.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply the theory behind the various surveying and geospatial techniques presented in this course and critically assess the quality of geospatial data",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5050": {
+                "CLO3": {
+                    "description": "Apply economics and policy concepts and frameworks to identify market failures and barriers to renewable and distributed energy deployment and integration in energy markets.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe the structure, operation and stakeholders in the Australian renewable energy industry and energy markets.",
+                    "relevant_assessments": []
+                }
+            },
+            "PHYS1221": {
+                "CLO2": {
+                    "description": "Apply critical thinking skills in a range of conceptual physical situations.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Draw and interpret graphs and diagrams to describe physical phenomena. General",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Use appropriate mathematical techniques, including calculus, to solve problems involving electromagnetism, optics and introductory quantum mechanics.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Safely conduct experiments in a modern physics laboratory and analyse the results, including reliable estimates of the uncertainties in the measurements.",
+                    "relevant_assessments": []
+                }
+            },
+            "PHYS1121": {
+                "CLO1": {
+                    "description": "Safely conduct experiments, analyse the results including reliable estimates of the uncertainties in the measurements.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Apply critical thinking skills in a range of conceptual physical situations.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Use appropriate mathematical techniques, including calculus, to solve problems involving mechanics, thermal physics and waves.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Draw and interpret graphs and diagrams to describe physical phenomena. Hurdle rules Students must score at least 50% to pass this hurdle.",
+                    "relevant_assessments": []
+                }
+            },
+            "PHYS1131": {
+                "CLO3": {
+                    "description": "Use appropriate mathematical techniques, including calculus, to solve elaborate problems involving mechanics, thermal physics and waves.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Model the behaviour of non-uniform objects using appropriate mathematical techniques.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Apply critical thinking skills in a range of advanced conceptual physical situations.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Safely conduct experiments, analyse the results including reliable estimates of the uncertainties in the measurements.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Draw and interpret graphs and diagrams to describe complex physical phenomena. Hurdle rules Students must pass the required amount of labs to pass this hurdle. This exact passing requirement is on Moodle.",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO3": {
+                    "description": "Assess environment related problems and apply appropriate quantitative methods.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Investigate and discuss the implications of climate change on human and natural systems.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Demonstrate how information from the application of these methods and tools can be applied in solution development and make recommendations towards more sustainable decision making processes.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2060": {
+                "CLO2": {
+                    "description": "Explain the operation of common semiconductor devices and calculate key parameters of these devices. Final Exam",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Build and analyse circuits consisting of electronic components including diodes and transistors",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Calculate key parameters for semiconductors and fundamental structures of pn junctions.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC1111": {
+                "CLO5": {
+                    "description": "Demonstrate competency in building basic electrical circuits, operate fundamental electrical engineering equipment, work in a laboratory environment and follow work, health and safety (WHS) regulations",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply phasors and sinusoidal steady state analysis to AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Systematically analyse DC and AC electrical circuits by deriving and solving equations using circuit laws and theorems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Obtain the transient and steady state behaviour of a first order circuit",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Evaluate relevant information to design simple engineering systems that use electrical circuits",
+                    "relevant_assessments": []
+                },
+                "CLO7": {
+                    "description": "Validate analysis results experimentally and/or using basic simulation software",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply concepts of DC and AC circuit analysis in circuits with ideal operational amplifiers",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC3105": {
+                "CLO1": {
+                    "description": "Analyse single and three phase AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Gain practical experience in the performance and operation of these important power engineering devices and circuits through laboratory experiments.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement specifications for transformers, DC machines, induction machines and synchronous machines for real- life applications by applying underlying theories and concepts, recognizing and evaluating the practical limitations and aspects of these devices.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Explain the working principle including the steady-state performances of important power engineering devices such as transformers, DC machines, induction machines, synchronous machines.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA1070": {
+                "CLO3": {
+                    "description": "Perform calculations based on energy conversion and transfer processes.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Design an energy infrastructure by making decisions based on energy security (ability to meet demand), energy equity (affordability) and environmental sustainability. Online Quizzes",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Identify the key economic and environmental sustainability indicators.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe the operation of a range of renewable energy technologies.",
+                    "relevant_assessments": []
+                }
+            },
+            "BABS1201": {
+                "CLO3": {
+                    "description": "Describe the structures of the macromolecules proteins, fats and carbohydrates, and their metabolism including the processes for energy generation in cells.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Describe the structures of genetic material, the processes involved in cell division and gene expression, and how this applies to genetic inheritance and evolution.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Identify and compare different cell types and their structures and functions.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO2": {
+                    "description": "Perform simple biomass resource",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Assess various options for conversion of biomass into heat, electricity and fuels, and be able to match these with different resources",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply the fundamental governing and operating principles of key conversion options, in enough depth to be able to perform idealised calculations and derivations relating to these principles",
+                    "relevant_assessments": []
+                }
+            },
+            "CHEM1011": {
+                "CLO4": {
+                    "description": "Work safely in a laboratory to manipulate apparatus, perform quantitative and qualitative chemical analysis, evaluate the accuracy and precision of measurements, and interpret results and observations.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply the concepts of oxidation and reduction, chemical equilibria and thermodynamics in the contexts of corrosion and electrochemical cells and relate this to current advances in battery technology. Final Exam",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Evaluate the structures of chemical substances in terms of atomic structure, bonding, and intermolecular forces, and relate these to the physicochemical properties of substances and mixtures in real and ideal contexts",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Evaluate chemical reactions and processes through qualitative and quantitative application of chemical equilibria (particularly in the contexts of acids/bases and buffers) and thermodynamics (including the concepts of entropy, enthalpy and Gibbs energy",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5057": {
+                "CLO1": {
+                    "description": "Explain the principles of energy efficiency, the contexts to which these apply and the importance of a systems level approach to reducing overall energy consumption.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Carry out cost analysis and comparison of the introduction of a new energy efficiency measure and assess its economic viability.",
+                    "relevant_assessments": []
+                }
+            },
+            "CHEM1031": {
+                "CLO3": {
+                    "description": "Apply the concepts of oxidation and reduction, chemical equilibria and thermodynamics in the contexts of corrosion, electrochemical cells and relate this to current advances in battery technology. Final exam",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Interpret information and numerical data to explain and/or rationalize real word phenomena by integrating multiple chemical principles. Laboratory work",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Evaluate chemical reactions and processes through qualitative and quantitative application of chemical equilibria (particularly in the contexts of acids/bases and buffers) and thermodynamics (including the concepts of entropy, enthalpy and Gibbs energy",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Evaluate the structures of chemical substances in terms of atomic structure, bonding, and intermolecular forces, and relate these to the physicochemical properties of substances and mixtures in real and ideal contexts",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2540": {
+                "CLO1": {
+                    "description": "Describe the key properties of light-matter interaction that impact the performance of a photovoltaic device.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate the incident solar power on a surface understanding the contributions of orientation, tilt, location, spectral change and weather factors.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Calculate output of a PV string at different shading scenarios and array configurations.",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9720": {
+                "CLO1": {
+                    "description": "Obtain a basic understanding of how to measure and calculate salient radiation properties and data that will allow you to solve solar thermal energy design problems",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3020": {
+                "CLO2": {
+                    "description": "Analyse solar cell performance and losses through the use of common testing and characterisation techniques.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Apply an understanding of the physics and chemistry underlying the main photovoltaic manufacturing processes to the optimisation of screen-printed solar cell production lines.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO1": {
+                    "description": "Explain the key underlying science of wind energy, and engineering aspects of wind turbines and wind farms, and their integration into power systems",
+                    "relevant_assessments": []
+                }
+            },
+            "BIOS1301": {
+                "CLO2": {
+                    "description": "Conduct basic scientific field observations and monitoring techniques including species identification and counts, water quality testing, consideration of inputs and outputs, and mark recapture techniques.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Collect, analyse (spatially and statistically), and interpret results from field and laboratory data.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Identify important environmental problems and explain how implementing appropriate management techniques can address these problems.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATS1101": {
+                "CLO3": {
+                    "description": "Connect chemical concepts to real-world applications through a firm foundation in the fundamentals of chemistry for materials science.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe relationship between a materials structure, properties and processing.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO3": {
+                    "description": "Apply foundational technical theory and skills to a design project.",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO2": {
+                    "description": "Evaluate the key engine technologies implemented in the current and future automobiles",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3507": {
+                "CLO1": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "1.2": {
+            "SOLA4951": {
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2911": {
+                "CLO1": {
+                    "description": "Explain the basic operation of single- phase and three-phase AC systems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate real and reactive power and power factor in single-phase and three-phase systems",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Explain the basic operation of transformers",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Describe the operation of power electronic converters, their interface to electrical networks, and perform basic calculations",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Describe the characteristics and applications of electromechanical machines in renewable energy systems and perform basic calculations",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2051": {
+                "CLO1": {
+                    "description": "Analyse simple data acquisition systems based on debugging and designing simple electronic circuits",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate and explain the functioning and engineering aspects of photovoltaic cells and modules, concentrators, boost converters and systems for thermal management",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2134": {
+                "CLO1": {
+                    "description": "Apply transform methods to analyse continuous-time linear systems.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe how signals and linear systems interact in the time and frequency domain, by correctly applying analytical tools.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Analyse simple and complex electric and magnetic circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Explain and analyse the behaviour of circuits with steady-state AC, periodic and transient voltages and currents. Hurdle rules You must pass the final exam to pass the course.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1081": {
+                "CLO2": {
+                    "description": "Apply the concepts and proof techniques taught to solve problems requiring rigorous logical and mathematical arguments.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "State the definitions and theorems of the Discrete Mathematics topics taught and recognise how they can be applied to standard numeric problems.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH2069": {
+                "CLO2": {
+                    "description": "Calculate integrals of functions of several variables, including using non-rectangular coordinate systems.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Apply the Cauchy-Goursat Theorem and its consequences to calculate contour integrals and to compute and manipulate Taylor and Laurent series expansions",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Work with multi-dimensional geometric objects such as curves and surfaces in space, and apply this to solving problems in multivariable differentiation.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply theorems of vector calculus, including using the theorems of Green, Gauss, and Stokes to calculate line and surface integrals.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Work with the geometry of complex numbers, including mapping regions of the complex plane.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Compute real integrals using the method residues.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1141": {
+                "CLO2": {
+                    "description": "Apply concepts and techniques from Algebra and Calculus to solve problems.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Apply concepts in Algebra and Calculus to unexpected contexts.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Apply definitions and theorems in Algebra and Calculus to justify mathematical statements and solve problems.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Identify and construct valid mathematical arguments and proofs of theorems.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1241": {
+                "CLO2": {
+                    "description": "Apply concepts and techniques from Algebra and Calculus to solve problems.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Apply definitions and theorems in Algebra and Calculus to justify mathematical statements and solve problems.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Identify and construct valid mathematical arguments and proofs of theorems in the context of Algebra and Calculus.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Apply concepts in Algebra and Calculus to unexpected contexts.",
+                    "relevant_assessments": []
+                }
+            },
+            "MMAN2700": {
+                "CLO4": {
+                    "description": "Carry out, on working machinery, measurements of thermodynamic and mechanical properties and identify links between theoretical analysis methods and actual performance.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply the 2nd law of thermodynamics to analyse the behaviour of internal combustion engines (air-standard cycles), vapour and refrigeration cycles",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Apply the 1st law of thermodynamics to solve steady-state problems on closed and open systems.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH2089": {
+                "CLO1": {
+                    "description": "Identify risks associated with floating point computations.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Use MATLAB or Python to apply numerical and statistical methods and for graphical analysis.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Apply various statistical models and methods for drawing conclusions and making decisions under uncertainty in engineering contexts.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Apply numerical techniques to find accurate and efficient solutions for models based on linear and nonlinear systems of equations, ordinary differential equations and partial differential equations.",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO3": {
+                    "description": "Undertake basic survey computations from raw field observations to support a range of surveying and engineering applications such as levelling and terrain representation, area and volume calculations, traversing and construction set out.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate basic field surveying techniques including handheld GPS and GIS, levelling, and use of a total station to acquire raw field observations and set out of a minor structure",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply the theory behind the various surveying and geospatial techniques presented in this course and critically assess the quality of geospatial data",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1231": {
+                "CLO5": {
+                    "description": "Apply concepts in Algebra and Calculus to unexpected contexts.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Identify and construct valid mathematical arguments in the context of Algebra and Calculus.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Apply definitions and theorems in Algebra and Calculus to justify mathematical statements and solve problems.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Apply concepts and techniques from Algebra and Calculus to solve problems.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5050": {
+                "CLO3": {
+                    "description": "Apply economics and policy concepts and frameworks to identify market failures and barriers to renewable and distributed energy deployment and integration in energy markets.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Access market and industry data and analyse renewable energy business models and the impacts of market regulatory arrangements and policy instruments.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe the structure, operation and stakeholders in the Australian renewable energy industry and energy markets.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the context and drivers for renewable energy policy, with a focus on the different roles of markets and governments.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Critically evaluate renewable energy and climate policy effectiveness, efficiency, equity and feasibility, and propose policy and market reform.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3507": {
+                "CLO2": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC1111": {
+                "CLO5": {
+                    "description": "Demonstrate competency in building basic electrical circuits, operate fundamental electrical engineering equipment, work in a laboratory environment and follow work, health and safety (WHS) regulations",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply phasors and sinusoidal steady state analysis to AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Systematically analyse DC and AC electrical circuits by deriving and solving equations using circuit laws and theorems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Obtain the transient and steady state behaviour of a first order circuit",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Evaluate relevant information to design simple engineering systems that use electrical circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply concepts of DC and AC circuit analysis in circuits with ideal operational amplifiers",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC3105": {
+                "CLO1": {
+                    "description": "Analyse single and three phase AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Gain practical experience in the performance and operation of these important power engineering devices and circuits through laboratory experiments.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement specifications for transformers, DC machines, induction machines and synchronous machines for real- life applications by applying underlying theories and concepts, recognizing and evaluating the practical limitations and aspects of these devices.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Explain the working principle including the steady-state performances of important power engineering devices such as transformers, DC machines, induction machines, synchronous machines.",
+                    "relevant_assessments": []
+                }
+            },
+            "ENGG1811": {
+                "CLO1": {
+                    "description": "Design algorithms to solve computation problems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Implement algorithms using the Python programming language",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Write Python programs to automate many different tasks Assignment 2",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Use, at a simple level, the numerical computation packages of Matlab and Excel Assignment 1",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA1070": {
+                "CLO3": {
+                    "description": "Perform calculations based on energy conversion and transfer processes.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Design an energy infrastructure by making decisions based on energy security (ability to meet demand), energy equity (affordability) and environmental sustainability. Online Quizzes",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe the operation of a range of renewable energy technologies.",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO2": {
+                    "description": "Evaluate and analyse simple environment-related systems by adopting environmental footprints, life cycle",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Demonstrate how information from the application of these methods and tools can be applied in solution development and make recommendations towards more sustainable decision making processes.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1131": {
+                "CLO5": {
+                    "description": "Apply concepts in Algebra and Calculus to unexpected contexts.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Apply definitions and theorems in Algebra and Calculus to justify mathematical statements and solve problems.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Identify and construct valid mathematical arguments.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Apply concepts and techniques from Algebra and Calculus to solve problems.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO3": {
+                    "description": "Assess various options for conversion of biomass into heat, electricity and fuels, and be able to match these with different resources",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply the fundamental governing and operating principles of key conversion options, in enough depth to be able to perform idealised calculations and derivations relating to these principles",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO1": {
+                    "description": "Explain the key underlying science of wind energy, and engineering aspects of wind turbines and wind farms, and their integration into power systems",
+                    "relevant_assessments": []
+                }
+            },
+            "MINE1010": {
+                "CLO4": {
+                    "description": "Analyse sustainability practices and economic drivers for the mining industry",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9720": {
+                "CLO2": {
+                    "description": "Be able to use engineering terminology associated with solar thermal energy systems",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "1.3": {
+            "SOLA4951": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2911": {
+                "CLO1": {
+                    "description": "Explain the basic operation of single- phase and three-phase AC systems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate real and reactive power and power factor in single-phase and three-phase systems",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Explain the basic operation of transformers",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Describe the operation of power electronic converters, their interface to electrical networks, and perform basic calculations",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Describe the characteristics and applications of electromechanical machines in renewable energy systems and perform basic calculations",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN2000": {
+                "CLO3": {
+                    "description": "Implement disciplinary technical theory and skills pertinent to the design project.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2051": {
+                "CLO2": {
+                    "description": "Calculate and explain the functioning and engineering aspects of photovoltaic cells and modules, concentrators, boost converters and systems for thermal management",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2134": {
+                "CLO1": {
+                    "description": "Apply transform methods to analyse continuous-time linear systems.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe how signals and linear systems interact in the time and frequency domain, by correctly applying analytical tools.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Analyse simple and complex electric and magnetic circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Explain and analyse the behaviour of circuits with steady-state AC, periodic and transient voltages and currents. Hurdle rules You must pass the final exam to pass the course.",
+                    "relevant_assessments": []
+                }
+            },
+            "MMAN2700": {
+                "CLO4": {
+                    "description": "Carry out, on working machinery, measurements of thermodynamic and mechanical properties and identify links between theoretical analysis methods and actual performance.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply the 2nd law of thermodynamics to analyse the behaviour of internal combustion engines (air-standard cycles), vapour and refrigeration cycles",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Apply the 1st law of thermodynamics to solve steady-state problems on closed and open systems.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO1": {
+                    "description": "Describe different biomass resources (eg, forestry, municipal waste, etc), in terms of their unique characteristics that determine methods of production, collection, processing and options for conversion into higher grade energy products",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Assess various options for conversion of biomass into heat, electricity and fuels, and be able to match these with different resources",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3010": {
+                "CLO3": {
+                    "description": "Assess solar access at a site using manual methods and/or software",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Determine the heat transfer, thermal comfort and lighting performance of a building using manual methods and software, and apply appropriate passive solar and low energy",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Estimate the temperature of BIPV installations and the thermal impact of PV on buildings.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Write a technical report that assesses the performance of various designs of low energy buildings and BIPV systems.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the relationship between building design and thermal and lighting performance, heating, cooling and lighting loads, and human comfort in buildings",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5051": {
+                "CLO2": {
+                    "description": "Apply LCA methodology framework by building LCA models using both primary and secondary data.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the LCA methodology and recognise the role of LCA in the overall process of environmental management.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4012": {
+                "CLO2": {
+                    "description": "Calculate the impact of PV systems on the local electricity network and how they can influence the power factor via reactive and active power.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Recommend and justify suitable PV system architecture based on the specific requirements of the application and location.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3507": {
+                "CLO2": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2060": {
+                "CLO2": {
+                    "description": "Explain the operation of common semiconductor devices and calculate key parameters of these devices. Final Exam",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Build and analyse circuits consisting of electronic components including diodes and transistors",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Calculate key parameters for semiconductors and fundamental structures of pn junctions.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2540": {
+                "CLO5": {
+                    "description": "Design a Stand-Alone PV system based on load",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the key properties of light-matter interaction that impact the performance of a photovoltaic device.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate the incident solar power on a surface understanding the contributions of orientation, tilt, location, spectral change and weather factors.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Calculate payback period and life cycle cost of electricity of a PV system.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Match system components for a particular PV system.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Calculate output of a PV string at different shading scenarios and array configurations.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC1111": {
+                "CLO5": {
+                    "description": "Demonstrate competency in building basic electrical circuits, operate fundamental electrical engineering equipment, work in a laboratory environment and follow work, health and safety (WHS) regulations",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply phasors and sinusoidal steady state analysis to AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Systematically analyse DC and AC electrical circuits by deriving and solving equations using circuit laws and theorems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Obtain the transient and steady state behaviour of a first order circuit",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Evaluate relevant information to design simple engineering systems that use electrical circuits",
+                    "relevant_assessments": []
+                },
+                "CLO7": {
+                    "description": "Validate analysis results experimentally and/or using basic simulation software",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply concepts of DC and AC circuit analysis in circuits with ideal operational amplifiers",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC3105": {
+                "CLO1": {
+                    "description": "Analyse single and three phase AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Gain practical experience in the performance and operation of these important power engineering devices and circuits through laboratory experiments.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement specifications for transformers, DC machines, induction machines and synchronous machines for real- life applications by applying underlying theories and concepts, recognizing and evaluating the practical limitations and aspects of these devices.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Explain the working principle including the steady-state performances of important power engineering devices such as transformers, DC machines, induction machines, synchronous machines.",
+                    "relevant_assessments": []
+                }
+            },
+            "ENGG1811": {
+                "CLO1": {
+                    "description": "Design algorithms to solve computation problems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Implement algorithms using the Python programming language",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Write Python programs to automate many different tasks Assignment 2",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5057": {
+                "CLO1": {
+                    "description": "Explain the principles of energy efficiency, the contexts to which these apply and the importance of a systems level approach to reducing overall energy consumption.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Carry out cost analysis and comparison of the introduction of a new energy efficiency measure and assess its economic viability.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5050": {
+                "CLO4": {
+                    "description": "Access market and industry data and analyse renewable energy business models and the impacts of market regulatory arrangements and policy instruments.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Critically evaluate renewable energy and climate policy effectiveness, efficiency, equity and feasibility, and propose policy and market reform.",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO2": {
+                    "description": "Evaluate and analyse simple environment-related systems by adopting environmental footprints, life cycle",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Investigate and discuss the implications of climate change on human and natural systems.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Demonstrate how information from the application of these methods and tools can be applied in solution development and make recommendations towards more sustainable decision making processes.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3020": {
+                "CLO2": {
+                    "description": "Analyse solar cell performance and losses through the use of common testing and characterisation techniques.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Apply an understanding of the physics and chemistry underlying the main photovoltaic manufacturing processes to the optimisation of screen-printed solar cell production lines.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO1": {
+                    "description": "Explain the key underlying science of wind energy, and engineering aspects of wind turbines and wind farms, and their integration into power systems",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA1070": {
+                "CLO1": {
+                    "description": "Identify the key economic and environmental sustainability indicators.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO3": {
+                    "description": "Apply foundational technical theory and skills to a design project.",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO2": {
+                    "description": "Evaluate the key engine technologies implemented in the current and future automobiles",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9720": {
+                "CLO2": {
+                    "description": "Be able to use engineering terminology associated with solar thermal energy systems",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "1.4": {
+            "SOLA4951": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Critically reflect on a specialist body of knowledge related to their thesis topic.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Critically reflect on a specialist body of knowledge related to their thesis topic.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Critically reflect on a specialist body of knowledge related to their thesis topic.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5050": {
+                "CLO3": {
+                    "description": "Apply economics and policy concepts and frameworks to identify market failures and barriers to renewable and distributed energy deployment and integration in energy markets.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Access market and industry data and analyse renewable energy business models and the impacts of market regulatory arrangements and policy instruments.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Critically evaluate renewable energy and climate policy effectiveness, efficiency, equity and feasibility, and propose policy and market reform.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATS1101": {
+                "CLO2": {
+                    "description": "Solve numerical problems related to mechanical behaviour and explain the mechanical properties of different types of materials.",
+                    "relevant_assessments": []
+                }
+            },
+            "MINE1010": {
+                "CLO3": {
+                    "description": "Identify opportunities for new technologies in the mining sector",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO4": {
+                    "description": "Demonstrate how information from the application of these methods and tools can be applied in solution development and make recommendations towards more sustainable decision making processes.",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "1.5": {
+            "SOLA4951": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN2000": {
+                "CLO1": {
+                    "description": "Develop design concepts using standard methods to collect, assess and integrate end- user, stakeholder and project requirements",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Validate the suitability of designs using standard technical methods while considering end-user and stakeholder contexts.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3020": {
+                "CLO3": {
+                    "description": "Optimise the design, production and processes for manufacturing of solar cells and modules using an experimental methodology.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Apply an understanding of the physics and chemistry underlying the main photovoltaic manufacturing processes to the optimisation of screen-printed solar cell production lines.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3010": {
+                "CLO3": {
+                    "description": "Assess solar access at a site using manual methods and/or software",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Determine the heat transfer, thermal comfort and lighting performance of a building using manual methods and software, and apply appropriate passive solar and low energy",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Estimate the temperature of BIPV installations and the thermal impact of PV on buildings.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Write a technical report that assesses the performance of various designs of low energy buildings and BIPV systems.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the relationship between building design and thermal and lighting performance, heating, cooling and lighting loads, and human comfort in buildings",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5057": {
+                "CLO4": {
+                    "description": "Communicate the results of such audits and analyses.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Explain the principles of energy efficiency, the contexts to which these apply and the importance of a systems level approach to reducing overall energy consumption.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Carry out effective energy audits and demonstrate the importance of an energy systems approach.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Carry out cost analysis and comparison of the introduction of a new energy efficiency measure and assess its economic viability.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2060": {
+                "CLO2": {
+                    "description": "Explain the operation of common semiconductor devices and calculate key parameters of these devices. Final Exam",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Build and analyse circuits consisting of electronic components including diodes and transistors",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2540": {
+                "CLO5": {
+                    "description": "Design a Stand-Alone PV system based on load",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate the incident solar power on a surface understanding the contributions of orientation, tilt, location, spectral change and weather factors.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Calculate payback period and life cycle cost of electricity of a PV system.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Match system components for a particular PV system.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Calculate output of a PV string at different shading scenarios and array configurations.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC3105": {
+                "CLO1": {
+                    "description": "Analyse single and three phase AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement specifications for transformers, DC machines, induction machines and synchronous machines for real- life applications by applying underlying theories and concepts, recognizing and evaluating the practical limitations and aspects of these devices.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO2": {
+                    "description": "Demonstrate some key techniques and skills required for designing and siting wind energy systems as well as perform a full wind farm",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO2": {
+                    "description": "Demonstrate skill with various surveying instruments, forward planning for survey tasks, production of clear field notes and redundant field checks to ensure accuracy.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate basic field surveying techniques including handheld GPS and GIS, levelling, and use of a total station to acquire raw field observations and set out of a minor structure",
+                    "relevant_assessments": []
+                }
+            },
+            "MINE1010": {
+                "CLO1": {
+                    "description": "Select a mining method and a separation process matching the geological characteristics of a mineral deposit",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5056": {
+                "CLO2": {
+                    "description": "Describe the technical characteristics of, and design, size and specify renewable energy systems commonly deployed in developing country contexts",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO1": {
+                    "description": "Identify advantages and disadvantages of the operation and efficiency of automobile engines of all types",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4012": {
+                "CLO1": {
+                    "description": "Recommend and justify suitable PV system architecture based on the specific requirements of the application and location.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO2": {
+                    "description": "Test the suitability of designs using analytical and practical validation methods pertinent to the project.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate a systematic approach to design in response to a specified set of project requirements.",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "1.6": {
+            "DESN2000": {
+                "CLO2": {
+                    "description": "Validate the suitability of designs using standard technical methods while considering end-user and stakeholder contexts.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO1": {
+                    "description": "Describe different biomass resources (eg, forestry, municipal waste, etc), in terms of their unique characteristics that determine methods of production, collection, processing and options for conversion into higher grade energy products",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Perform simple biomass resource",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO3": {
+                    "description": "Describe the key pollutants associated with combustion in engines and explain their significance with respect to health and the environment",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3010": {
+                "CLO3": {
+                    "description": "Assess solar access at a site using manual methods and/or software",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Determine the heat transfer, thermal comfort and lighting performance of a building using manual methods and software, and apply appropriate passive solar and low energy",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Estimate the temperature of BIPV installations and the thermal impact of PV on buildings.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Write a technical report that assesses the performance of various designs of low energy buildings and BIPV systems.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the relationship between building design and thermal and lighting performance, heating, cooling and lighting loads, and human comfort in buildings",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5057": {
+                "CLO4": {
+                    "description": "Communicate the results of such audits and analyses.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Explain the principles of energy efficiency, the contexts to which these apply and the importance of a systems level approach to reducing overall energy consumption.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Carry out effective energy audits and demonstrate the importance of an energy systems approach.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Carry out cost analysis and comparison of the introduction of a new energy efficiency measure and assess its economic viability.",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO3": {
+                    "description": "Assess environment related problems and apply appropriate quantitative methods.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Demonstrate how information from the application of these methods and tools can be applied in solution development and make recommendations towards more sustainable decision making processes.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5056": {
+                "CLO3": {
+                    "description": "Apply a range of multi-disciplinary methodologies, frameworks and best practices",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4012": {
+                "CLO4": {
+                    "description": "Optimise PV designs based on technoeconomic principles using software tools",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Design and document a PV system fully compliant with all relevant Australian Standards for a safe and optimal operation.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Recommend and justify suitable PV system architecture based on the specific requirements of the application and location.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA1070": {
+                "CLO4": {
+                    "description": "Design an energy infrastructure by making decisions based on energy security (ability to meet demand), energy equity (affordability) and environmental sustainability. Online Quizzes",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Identify the key economic and environmental sustainability indicators.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe the operation of a range of renewable energy technologies.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5051": {
+                "CLO3": {
+                    "description": "Assess environmental impacts of products, processes or systems from a life cycle perspective using a LCA software.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Assess renewable energy technologies and systems using LCA approach, compliant with international norms.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO3": {
+                    "description": "Analyse and explain the wider economic, social and environmental aspects of wind energy systems",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5050": {
+                "CLO1": {
+                    "description": "Describe the context and drivers for renewable energy policy, with a focus on the different roles of markets and governments.",
+                    "relevant_assessments": []
+                }
+            },
+            "MINE1010": {
+                "CLO3": {
+                    "description": "Identify opportunities for new technologies in the mining sector",
+                    "relevant_assessments": []
+                }
+            }
+        }
+    },
+    "2": {
+        "2.1": {
+            "SOLA4951": {
+                "CLO3": {
+                    "description": "Apply scientific and engineering methods to solve an engineering problem.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO3": {
+                    "description": "Apply scientific and engineering methods to solve an engineering problem.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO3": {
+                    "description": "Apply scientific and engineering methods to solve an engineering problem.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2911": {
+                "CLO1": {
+                    "description": "Explain the basic operation of single- phase and three-phase AC systems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate real and reactive power and power factor in single-phase and three-phase systems",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Explain the basic operation of transformers",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Describe the operation of power electronic converters, their interface to electrical networks, and perform basic calculations",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Describe the characteristics and applications of electromechanical machines in renewable energy systems and perform basic calculations",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN2000": {
+                "CLO1": {
+                    "description": "Develop design concepts using standard methods to collect, assess and integrate end- user, stakeholder and project requirements",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Validate the suitability of designs using standard technical methods while considering end-user and stakeholder contexts.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement disciplinary technical theory and skills pertinent to the design project.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2134": {
+                "CLO1": {
+                    "description": "Apply transform methods to analyse continuous-time linear systems.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe how signals and linear systems interact in the time and frequency domain, by correctly applying analytical tools.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Analyse simple and complex electric and magnetic circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Explain and analyse the behaviour of circuits with steady-state AC, periodic and transient voltages and currents. Hurdle rules You must pass the final exam to pass the course.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3020": {
+                "CLO3": {
+                    "description": "Optimise the design, production and processes for manufacturing of solar cells and modules using an experimental methodology.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3010": {
+                "CLO3": {
+                    "description": "Assess solar access at a site using manual methods and/or software",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Determine the heat transfer, thermal comfort and lighting performance of a building using manual methods and software, and apply appropriate passive solar and low energy",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Estimate the temperature of BIPV installations and the thermal impact of PV on buildings.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Write a technical report that assesses the performance of various designs of low energy buildings and BIPV systems.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the relationship between building design and thermal and lighting performance, heating, cooling and lighting loads, and human comfort in buildings",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4012": {
+                "CLO2": {
+                    "description": "Calculate the impact of PV systems on the local electricity network and how they can influence the power factor via reactive and active power.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Optimise PV designs based on technoeconomic principles using software tools",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3507": {
+                "CLO2": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2060": {
+                "CLO2": {
+                    "description": "Explain the operation of common semiconductor devices and calculate key parameters of these devices. Final Exam",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Build and analyse circuits consisting of electronic components including diodes and transistors",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Calculate key parameters for semiconductors and fundamental structures of pn junctions.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2540": {
+                "CLO5": {
+                    "description": "Design a Stand-Alone PV system based on load",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate the incident solar power on a surface understanding the contributions of orientation, tilt, location, spectral change and weather factors.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Calculate payback period and life cycle cost of electricity of a PV system.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Match system components for a particular PV system.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Calculate output of a PV string at different shading scenarios and array configurations.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC3105": {
+                "CLO1": {
+                    "description": "Analyse single and three phase AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Gain practical experience in the performance and operation of these important power engineering devices and circuits through laboratory experiments.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement specifications for transformers, DC machines, induction machines and synchronous machines for real- life applications by applying underlying theories and concepts, recognizing and evaluating the practical limitations and aspects of these devices.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Explain the working principle including the steady-state performances of important power engineering devices such as transformers, DC machines, induction machines, synchronous machines.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC1111": {
+                "CLO3": {
+                    "description": "Apply phasors and sinusoidal steady state analysis to AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Systematically analyse DC and AC electrical circuits by deriving and solving equations using circuit laws and theorems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Obtain the transient and steady state behaviour of a first order circuit",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Evaluate relevant information to design simple engineering systems that use electrical circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply concepts of DC and AC circuit analysis in circuits with ideal operational amplifiers",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA1070": {
+                "CLO3": {
+                    "description": "Perform calculations based on energy conversion and transfer processes.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1081": {
+                "CLO4": {
+                    "description": "Use technology as an aid to communicate mathematical ideas by properly typesetting mathematical proofs.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5057": {
+                "CLO1": {
+                    "description": "Explain the principles of energy efficiency, the contexts to which these apply and the importance of a systems level approach to reducing overall energy consumption.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Carry out cost analysis and comparison of the introduction of a new energy efficiency measure and assess its economic viability.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1231": {
+                "CLO3": {
+                    "description": "Use technology as an aid to solve appropriate problems in Algebra and Calculus.",
+                    "relevant_assessments": []
+                }
+            },
+            "MINE1010": {
+                "CLO1": {
+                    "description": "Select a mining method and a separation process matching the geological characteristics of a mineral deposit",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH2089": {
+                "CLO3": {
+                    "description": "Apply numerical techniques to practical problems in Engineering.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5056": {
+                "CLO2": {
+                    "description": "Describe the technical characteristics of, and design, size and specify renewable energy systems commonly deployed in developing country contexts",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Assess the performance and sustainability of these energy systems by modelling",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO1": {
+                    "description": "Explain the key underlying science of wind energy, and engineering aspects of wind turbines and wind farms, and their integration into power systems",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1241": {
+                "CLO3": {
+                    "description": "Use technology as an aid to solve appropriate problems in Algebra and Calculus.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1131": {
+                "CLO3": {
+                    "description": "Use technology as an aid to solve appropriate problems in Algebra and Calculus.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO3": {
+                    "description": "Apply foundational technical theory and skills to a design project.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Test the suitability of designs using analytical and practical validation methods pertinent to the project.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate a systematic approach to design in response to a specified set of project requirements.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1141": {
+                "CLO3": {
+                    "description": "Use technology as an aid to solve appropriate problems in Algebra and Calculus.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO4": {
+                    "description": "Apply the fundamental governing and operating principles of key conversion options, in enough depth to be able to perform idealised calculations and derivations relating to these principles",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO2": {
+                    "description": "Evaluate the key engine technologies implemented in the current and future automobiles",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO4": {
+                    "description": "Demonstrate how information from the application of these methods and tools can be applied in solution development and make recommendations towards more sustainable decision making processes.",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "2.2": {
+            "SOLA4951": {
+                "CLO3": {
+                    "description": "Apply scientific and engineering methods to solve an engineering problem.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO3": {
+                    "description": "Apply scientific and engineering methods to solve an engineering problem.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO3": {
+                    "description": "Apply scientific and engineering methods to solve an engineering problem.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Analyse data objectively using quantitative and mathematical methods.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2911": {
+                "CLO1": {
+                    "description": "Explain the basic operation of single- phase and three-phase AC systems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate real and reactive power and power factor in single-phase and three-phase systems",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Explain the basic operation of transformers",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Describe the operation of power electronic converters, their interface to electrical networks, and perform basic calculations",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Describe the characteristics and applications of electromechanical machines in renewable energy systems and perform basic calculations",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN2000": {
+                "CLO1": {
+                    "description": "Develop design concepts using standard methods to collect, assess and integrate end- user, stakeholder and project requirements",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Validate the suitability of designs using standard technical methods while considering end-user and stakeholder contexts.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement disciplinary technical theory and skills pertinent to the design project.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2134": {
+                "CLO3": {
+                    "description": "Analyse simple and complex electric and magnetic circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Explain and analyse the behaviour of circuits with steady-state AC, periodic and transient voltages and currents. Hurdle rules You must pass the final exam to pass the course.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3020": {
+                "CLO3": {
+                    "description": "Optimise the design, production and processes for manufacturing of solar cells and modules using an experimental methodology.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Analyse solar cell performance and losses through the use of common testing and characterisation techniques.",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO3": {
+                    "description": "Describe the key pollutants associated with combustion in engines and explain their significance with respect to health and the environment",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3010": {
+                "CLO3": {
+                    "description": "Assess solar access at a site using manual methods and/or software",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Determine the heat transfer, thermal comfort and lighting performance of a building using manual methods and software, and apply appropriate passive solar and low energy",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Estimate the temperature of BIPV installations and the thermal impact of PV on buildings.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Write a technical report that assesses the performance of various designs of low energy buildings and BIPV systems.",
+                    "relevant_assessments": []
+                }
+            },
+            "MINE1010": {
+                "CLO2": {
+                    "description": "Evaluate safety related hazards, their consequences, and appropriate control options",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4012": {
+                "CLO2": {
+                    "description": "Calculate the impact of PV systems on the local electricity network and how they can influence the power factor via reactive and active power.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Optimise PV designs based on technoeconomic principles using software tools",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Design and document a PV system fully compliant with all relevant Australian Standards for a safe and optimal operation.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2060": {
+                "CLO2": {
+                    "description": "Explain the operation of common semiconductor devices and calculate key parameters of these devices. Final Exam",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Build and analyse circuits consisting of electronic components including diodes and transistors",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Calculate key parameters for semiconductors and fundamental structures of pn junctions.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2540": {
+                "CLO5": {
+                    "description": "Design a Stand-Alone PV system based on load",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate the incident solar power on a surface understanding the contributions of orientation, tilt, location, spectral change and weather factors.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Calculate output of a PV string at different shading scenarios and array configurations.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC1111": {
+                "CLO5": {
+                    "description": "Demonstrate competency in building basic electrical circuits, operate fundamental electrical engineering equipment, work in a laboratory environment and follow work, health and safety (WHS) regulations",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply phasors and sinusoidal steady state analysis to AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Systematically analyse DC and AC electrical circuits by deriving and solving equations using circuit laws and theorems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Obtain the transient and steady state behaviour of a first order circuit",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Evaluate relevant information to design simple engineering systems that use electrical circuits",
+                    "relevant_assessments": []
+                },
+                "CLO7": {
+                    "description": "Validate analysis results experimentally and/or using basic simulation software",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply concepts of DC and AC circuit analysis in circuits with ideal operational amplifiers",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC3105": {
+                "CLO1": {
+                    "description": "Analyse single and three phase AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Gain practical experience in the performance and operation of these important power engineering devices and circuits through laboratory experiments.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement specifications for transformers, DC machines, induction machines and synchronous machines for real- life applications by applying underlying theories and concepts, recognizing and evaluating the practical limitations and aspects of these devices.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Explain the working principle including the steady-state performances of important power engineering devices such as transformers, DC machines, induction machines, synchronous machines.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA1070": {
+                "CLO3": {
+                    "description": "Perform calculations based on energy conversion and transfer processes.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO2": {
+                    "description": "Demonstrate some key techniques and skills required for designing and siting wind energy systems as well as perform a full wind farm",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO2": {
+                    "description": "Perform simple biomass resource",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply the fundamental governing and operating principles of key conversion options, in enough depth to be able to perform idealised calculations and derivations relating to these principles",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5057": {
+                "CLO1": {
+                    "description": "Explain the principles of energy efficiency, the contexts to which these apply and the importance of a systems level approach to reducing overall energy consumption.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Carry out cost analysis and comparison of the introduction of a new energy efficiency measure and assess its economic viability.",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO2": {
+                    "description": "Demonstrate skill with various surveying instruments, forward planning for survey tasks, production of clear field notes and redundant field checks to ensure accuracy.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate basic field surveying techniques including handheld GPS and GIS, levelling, and use of a total station to acquire raw field observations and set out of a minor structure",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO3": {
+                    "description": "Apply foundational technical theory and skills to a design project.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Test the suitability of designs using analytical and practical validation methods pertinent to the project.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate a systematic approach to design in response to a specified set of project requirements.",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO4": {
+                    "description": "Demonstrate how information from the application of these methods and tools can be applied in solution development and make recommendations towards more sustainable decision making processes.",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "2.3": {
+            "SOLA4951": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN2000": {
+                "CLO1": {
+                    "description": "Develop design concepts using standard methods to collect, assess and integrate end- user, stakeholder and project requirements",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Validate the suitability of designs using standard technical methods while considering end-user and stakeholder contexts.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement disciplinary technical theory and skills pertinent to the design project.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2134": {
+                "CLO3": {
+                    "description": "Analyse simple and complex electric and magnetic circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Explain and analyse the behaviour of circuits with steady-state AC, periodic and transient voltages and currents. Hurdle rules You must pass the final exam to pass the course.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3010": {
+                "CLO2": {
+                    "description": "Determine the heat transfer, thermal comfort and lighting performance of a building using manual methods and software, and apply appropriate passive solar and low energy",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the relationship between building design and thermal and lighting performance, heating, cooling and lighting loads, and human comfort in buildings",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5051": {
+                "CLO5": {
+                    "description": "Interpret and make use of completed LCAs to make informed recommendations for environmental impacts of RE systems.",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO3": {
+                    "description": "Undertake basic survey computations from raw field observations to support a range of surveying and engineering applications such as levelling and terrain representation, area and volume calculations, traversing and construction set out.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate basic field surveying techniques including handheld GPS and GIS, levelling, and use of a total station to acquire raw field observations and set out of a minor structure",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3507": {
+                "CLO2": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2060": {
+                "CLO2": {
+                    "description": "Explain the operation of common semiconductor devices and calculate key parameters of these devices. Final Exam",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2540": {
+                "CLO5": {
+                    "description": "Design a Stand-Alone PV system based on load",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Match system components for a particular PV system.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5056": {
+                "CLO3": {
+                    "description": "Apply a range of multi-disciplinary methodologies, frameworks and best practices",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO2": {
+                    "description": "Demonstrate some key techniques and skills required for designing and siting wind energy systems as well as perform a full wind farm",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Analyse and explain the wider economic, social and environmental aspects of wind energy systems",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO2": {
+                    "description": "Perform simple biomass resource",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Assess various options for conversion of biomass into heat, electricity and fuels, and be able to match these with different resources",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5057": {
+                "CLO1": {
+                    "description": "Explain the principles of energy efficiency, the contexts to which these apply and the importance of a systems level approach to reducing overall energy consumption.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Carry out cost analysis and comparison of the introduction of a new energy efficiency measure and assess its economic viability.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4012": {
+                "CLO4": {
+                    "description": "Optimise PV designs based on technoeconomic principles using software tools",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Develop proposals for utility scale PV projects and its associated business model.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Design and document a PV system fully compliant with all relevant Australian Standards for a safe and optimal operation.",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO1": {
+                    "description": "Identify advantages and disadvantages of the operation and efficiency of automobile engines of all types",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO3": {
+                    "description": "Apply foundational technical theory and skills to a design project.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Test the suitability of designs using analytical and practical validation methods pertinent to the project.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate a systematic approach to design in response to a specified set of project requirements.",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "2.4": {
+            "SOLA4951": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN2000": {
+                "CLO4": {
+                    "description": "Contribute to the work of a team and collaborate on the design project, including the implementation of organisational and interpersonal tools.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Integrate project management techniques to plan, execute and complete an open-ended design project.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2051": {
+                "CLO3": {
+                    "description": "Demonstrate awareness of occupational health and safety concerns while undertaking tasks on a technical project",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Design a PV/Thermal system by building and evaluating the performance of a solar panel and thermal management system",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO1": {
+                    "description": "Describe different biomass resources (eg, forestry, municipal waste, etc), in terms of their unique characteristics that determine methods of production, collection, processing and options for conversion into higher grade energy products",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5057": {
+                "CLO4": {
+                    "description": "Communicate the results of such audits and analyses.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Carry out effective energy audits and demonstrate the importance of an energy systems approach.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO5": {
+                    "description": "Use foundational project management techniques to plan, execute and complete a design project.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Demonstrate the attributes of an effective team member, including the use of basic organisational and interpersonal tools.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate a systematic approach to design in response to a specified set of project requirements.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO2": {
+                    "description": "Demonstrate some key techniques and skills required for designing and siting wind energy systems as well as perform a full wind farm",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO2": {
+                    "description": "Demonstrate skill with various surveying instruments, forward planning for survey tasks, production of clear field notes and redundant field checks to ensure accuracy.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5056": {
+                "CLO4": {
+                    "description": "Assess the performance and sustainability of these energy systems by modelling",
+                    "relevant_assessments": []
+                }
+            }
+        }
+    },
+    "3": {
+        "3.1": {
+            "SOLA4951": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "CHEM1011": {
+                "CLO5": {
+                    "description": "Interpret information and numerical data to explain and/or rationalise real word phenomena by integrating multiple chemical principles. Laboratory Work",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO3": {
+                    "description": "Describe the key pollutants associated with combustion in engines and explain their significance with respect to health and the environment",
+                    "relevant_assessments": []
+                }
+            },
+            "CHEM1031": {
+                "CLO4": {
+                    "description": "Work safely in a laboratory to manipulate apparatus, perform quantitative and qualitative chemical analysis, evaluate the accuracy and precision of measurements, and to interpret results and observations.",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO3": {
+                    "description": "Assess environment related problems and apply appropriate quantitative methods.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Investigate and discuss the implications of climate change on human and natural systems.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATS1101": {
+                "CLO4": {
+                    "description": "Conduct laboratory experiments in a safe manner and manipulate apparatus, perform quantitative and qualitative materials and chemical analyses, evaluate the accuracy and precision of measurements, and interpret results and observations.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5056": {
+                "CLO5": {
+                    "description": "Creatively integrate multi-disciplinary considerations into the design process and",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC3105": {
+                "CLO1": {
+                    "description": "Analyse single and three phase AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Gain practical experience in the performance and operation of these important power engineering devices and circuits through laboratory experiments.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement specifications for transformers, DC machines, induction machines and synchronous machines for real- life applications by applying underlying theories and concepts, recognizing and evaluating the practical limitations and aspects of these devices.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Explain the working principle including the steady-state performances of important power engineering devices such as transformers, DC machines, induction machines, synchronous machines.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO2": {
+                    "description": "Perform simple biomass resource",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9720": {
+                "CLO3": {
+                    "description": "Understand and be able to use the terminology associated with solar thermal energy to create a professional report.",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO4": {
+                    "description": "Apply the theory behind the various surveying and geospatial techniques presented in this course and critically assess the quality of geospatial data",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5050": {
+                "CLO1": {
+                    "description": "Describe the context and drivers for renewable energy policy, with a focus on the different roles of markets and governments.",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "3.2": {
+            "SOLA4951": {
+                "CLO5": {
+                    "description": "Demonstrate oral and written communication in professional and lay domains.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO5": {
+                    "description": "Demonstrate oral and written communication in professional and lay domains.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO5": {
+                    "description": "Demonstrate oral and written communication in professional and lay domains.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2911": {
+                "CLO1": {
+                    "description": "Explain the basic operation of single- phase and three-phase AC systems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate real and reactive power and power factor in single-phase and three-phase systems",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Explain the basic operation of transformers",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Describe the operation of power electronic converters, their interface to electrical networks, and perform basic calculations",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Describe the characteristics and applications of electromechanical machines in renewable energy systems and perform basic calculations",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN2000": {
+                "CLO6": {
+                    "description": "Explain designs to various audiences using oral, written, and visual forms of professional and persuasive communication.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2051": {
+                "CLO5": {
+                    "description": "Demonstrate effective communication skills by preparing a documentary video and writing a project report",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2134": {
+                "CLO2": {
+                    "description": "Describe how signals and linear systems interact in the time and frequency domain, by correctly applying analytical tools.",
+                    "relevant_assessments": []
+                }
+            },
+            "BIOS1301": {
+                "CLO4": {
+                    "description": "Produce a written report appropriate for academic publication.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5051": {
+                "CLO5": {
+                    "description": "Interpret and make use of completed LCAs to make informed recommendations for environmental impacts of RE systems.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5057": {
+                "CLO4": {
+                    "description": "Communicate the results of such audits and analyses.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Carry out effective energy audits and demonstrate the importance of an energy systems approach.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2060": {
+                "CLO2": {
+                    "description": "Explain the operation of common semiconductor devices and calculate key parameters of these devices. Final Exam",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Build and analyse circuits consisting of electronic components including diodes and transistors",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2540": {
+                "CLO5": {
+                    "description": "Design a Stand-Alone PV system based on load",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the key properties of light-matter interaction that impact the performance of a photovoltaic device.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate the incident solar power on a surface understanding the contributions of orientation, tilt, location, spectral change and weather factors.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Calculate payback period and life cycle cost of electricity of a PV system.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Match system components for a particular PV system.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Calculate output of a PV string at different shading scenarios and array configurations.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1131": {
+                "CLO4": {
+                    "description": "Communicate mathematical ideas in written form using correct terminology and using technology.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC1111": {
+                "CLO5": {
+                    "description": "Demonstrate competency in building basic electrical circuits, operate fundamental electrical engineering equipment, work in a laboratory environment and follow work, health and safety (WHS) regulations",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Evaluate relevant information to design simple engineering systems that use electrical circuits",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO2": {
+                    "description": "Demonstrate some key techniques and skills required for designing and siting wind energy systems as well as perform a full wind farm",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1141": {
+                "CLO4": {
+                    "description": "Communicate mathematical ideas in written and oral form using correct terminology and using technology.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1241": {
+                "CLO4": {
+                    "description": "Communicate mathematical ideas in written and oral form using correct terminology and using technology.",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO4": {
+                    "description": "Provide technical explanations to the opportunities and limitations of alternative fuel engines, hybrid engines, and electric- drives",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3020": {
+                "CLO4": {
+                    "description": "Communicate an awareness of emerging manufacturable solar cell technologies.",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO2": {
+                    "description": "Demonstrate skill with various surveying instruments, forward planning for survey tasks, production of clear field notes and redundant field checks to ensure accuracy.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH2089": {
+                "CLO5": {
+                    "description": "Apply various graphical and data analysis methods for summarizing and understanding data.",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO2": {
+                    "description": "Evaluate and analyse simple environment-related systems by adopting environmental footprints, life cycle",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4012": {
+                "CLO5": {
+                    "description": "Develop proposals for utility scale PV projects and its associated business model.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Design and document a PV system fully compliant with all relevant Australian Standards for a safe and optimal operation.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO6": {
+                    "description": "Explain designs using oral, written and visual forms of professional communication within the project context. Project",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA1070": {
+                "CLO4": {
+                    "description": "Design an energy infrastructure by making decisions based on energy security (ability to meet demand), energy equity (affordability) and environmental sustainability. Online Quizzes",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Identify the key economic and environmental sustainability indicators.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe the operation of a range of renewable energy technologies.",
+                    "relevant_assessments": []
+                }
+            },
+            "MINE1010": {
+                "CLO4": {
+                    "description": "Analyse sustainability practices and economic drivers for the mining industry",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Identify opportunities for new technologies in the mining sector",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3010": {
+                "CLO5": {
+                    "description": "Write a technical report that assesses the performance of various designs of low energy buildings and BIPV systems.",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1231": {
+                "CLO4": {
+                    "description": "Communicate mathematical ideas in written and oral form using correct terminology and using technology.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC3105": {
+                "CLO3": {
+                    "description": "Implement specifications for transformers, DC machines, induction machines and synchronous machines for real- life applications by applying underlying theories and concepts, recognizing and evaluating the practical limitations and aspects of these devices.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5056": {
+                "CLO1": {
+                    "description": "Interpret a brief, present proposals for feedback and",
+                    "relevant_assessments": []
+                }
+            },
+            "MATH1081": {
+                "CLO3": {
+                    "description": "Communicate mathematical ideas effectively in written and oral form using correct terminology.",
+                    "relevant_assessments": []
+                }
+            },
+            "BABS1201": {
+                "CLO1": {
+                    "description": "Communicate findings from scientific literature to different audiences using verbal and written formats.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5050": {
+                "CLO5": {
+                    "description": "Critically evaluate renewable energy and climate policy effectiveness, efficiency, equity and feasibility, and propose policy and market reform.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3507": {
+                "CLO1": {
+                    "description": "Description not found",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "3.3": {
+            "SOLA4951": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO1": {
+                    "description": "Develop a design or a process or investigate a hypothesis following industry and professional engineering standards.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN2000": {
+                "CLO1": {
+                    "description": "Develop design concepts using standard methods to collect, assess and integrate end- user, stakeholder and project requirements",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Validate the suitability of designs using standard technical methods while considering end-user and stakeholder contexts.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2051": {
+                "CLO4": {
+                    "description": "Design a PV/Thermal system by building and evaluating the performance of a solar panel and thermal management system",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2060": {
+                "CLO2": {
+                    "description": "Explain the operation of common semiconductor devices and calculate key parameters of these devices. Final Exam",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Calculate key parameters for semiconductors and fundamental structures of pn junctions.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2540": {
+                "CLO5": {
+                    "description": "Design a Stand-Alone PV system based on load",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Match system components for a particular PV system.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5056": {
+                "CLO5": {
+                    "description": "Creatively integrate multi-disciplinary considerations into the design process and",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC1111": {
+                "CLO5": {
+                    "description": "Demonstrate competency in building basic electrical circuits, operate fundamental electrical engineering equipment, work in a laboratory environment and follow work, health and safety (WHS) regulations",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Evaluate relevant information to design simple engineering systems that use electrical circuits",
+                    "relevant_assessments": []
+                },
+                "CLO7": {
+                    "description": "Validate analysis results experimentally and/or using basic simulation software",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC3105": {
+                "CLO1": {
+                    "description": "Analyse single and three phase AC circuits",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Gain practical experience in the performance and operation of these important power engineering devices and circuits through laboratory experiments.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Implement specifications for transformers, DC machines, induction machines and synchronous machines for real- life applications by applying underlying theories and concepts, recognizing and evaluating the practical limitations and aspects of these devices.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Explain the working principle including the steady-state performances of important power engineering devices such as transformers, DC machines, induction machines, synchronous machines.",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO2": {
+                    "description": "Demonstrate skill with various surveying instruments, forward planning for survey tasks, production of clear field notes and redundant field checks to ensure accuracy.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5050": {
+                "CLO4": {
+                    "description": "Access market and industry data and analyse renewable energy business models and the impacts of market regulatory arrangements and policy instruments.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Critically evaluate renewable energy and climate policy effectiveness, efficiency, equity and feasibility, and propose policy and market reform.",
+                    "relevant_assessments": []
+                }
+            },
+            "MINE1010": {
+                "CLO1": {
+                    "description": "Select a mining method and a separation process matching the geological characteristics of a mineral deposit",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Identify opportunities for new technologies in the mining sector",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA1070": {
+                "CLO4": {
+                    "description": "Design an energy infrastructure by making decisions based on energy security (ability to meet demand), energy equity (affordability) and environmental sustainability. Online Quizzes",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Identify the key economic and environmental sustainability indicators.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO3": {
+                    "description": "Assess various options for conversion of biomass into heat, electricity and fuels, and be able to match these with different resources",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO1": {
+                    "description": "Identify advantages and disadvantages of the operation and efficiency of automobile engines of all types",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO4": {
+                    "description": "Demonstrate the attributes of an effective team member, including the use of basic organisational and interpersonal tools.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Test the suitability of designs using analytical and practical validation methods pertinent to the project.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Demonstrate a systematic approach to design in response to a specified set of project requirements.",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "3.4": {
+            "SOLA4951": {
+                "CLO2": {
+                    "description": "Critically reflect on a specialist body of knowledge related to their thesis topic.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply scientific and engineering methods to solve an engineering problem.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO2": {
+                    "description": "Critically reflect on a specialist body of knowledge related to their thesis topic.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply scientific and engineering methods to solve an engineering problem.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO2": {
+                    "description": "Critically reflect on a specialist body of knowledge related to their thesis topic.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Apply scientific and engineering methods to solve an engineering problem.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2911": {
+                "CLO1": {
+                    "description": "Explain the basic operation of single- phase and three-phase AC systems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate real and reactive power and power factor in single-phase and three-phase systems",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Explain the basic operation of transformers",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Describe the operation of power electronic converters, their interface to electrical networks, and perform basic calculations",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Describe the characteristics and applications of electromechanical machines in renewable energy systems and perform basic calculations",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN2000": {
+                "CLO4": {
+                    "description": "Contribute to the work of a team and collaborate on the design project, including the implementation of organisational and interpersonal tools.",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Integrate project management techniques to plan, execute and complete an open-ended design project.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5052": {
+                "CLO1": {
+                    "description": "Describe different biomass resources (eg, forestry, municipal waste, etc), in terms of their unique characteristics that determine methods of production, collection, processing and options for conversion into higher grade energy products",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Perform simple biomass resource",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Apply the fundamental governing and operating principles of key conversion options, in enough depth to be able to perform idealised calculations and derivations relating to these principles",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO3": {
+                    "description": "Undertake basic survey computations from raw field observations to support a range of surveying and engineering applications such as levelling and terrain representation, area and volume calculations, traversing and construction set out.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5057": {
+                "CLO4": {
+                    "description": "Communicate the results of such audits and analyses.",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Carry out effective energy audits and demonstrate the importance of an energy systems approach.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5050": {
+                "CLO3": {
+                    "description": "Apply economics and policy concepts and frameworks to identify market failures and barriers to renewable and distributed energy deployment and integration in energy markets.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Access market and industry data and analyse renewable energy business models and the impacts of market regulatory arrangements and policy instruments.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe the structure, operation and stakeholders in the Australian renewable energy industry and energy markets.",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO5": {
+                    "description": "Use foundational project management techniques to plan, execute and complete a design project.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Explain designs using oral, written and visual forms of professional communication within the project context. Project",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Demonstrate the attributes of an effective team member, including the use of basic organisational and interpersonal tools.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO2": {
+                    "description": "Demonstrate some key techniques and skills required for designing and siting wind energy systems as well as perform a full wind farm",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO4": {
+                    "description": "Provide technical explanations to the opportunities and limitations of alternative fuel engines, hybrid engines, and electric- drives",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO2": {
+                    "description": "Evaluate and analyse simple environment-related systems by adopting environmental footprints, life cycle",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC3105": {
+                "CLO4": {
+                    "description": "Gain practical experience in the performance and operation of these important power engineering devices and circuits through laboratory experiments.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5056": {
+                "CLO1": {
+                    "description": "Interpret a brief, present proposals for feedback and",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "3.5": {
+            "SOLA4951": {
+                "CLO5": {
+                    "description": "Demonstrate oral and written communication in professional and lay domains.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4952": {
+                "CLO5": {
+                    "description": "Demonstrate oral and written communication in professional and lay domains.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA4953": {
+                "CLO5": {
+                    "description": "Demonstrate oral and written communication in professional and lay domains.",
+                    "relevant_assessments": []
+                }
+            },
+            "ELEC2911": {
+                "CLO1": {
+                    "description": "Explain the basic operation of single- phase and three-phase AC systems",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Calculate real and reactive power and power factor in single-phase and three-phase systems",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Explain the basic operation of transformers",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Describe the operation of power electronic converters, their interface to electrical networks, and perform basic calculations",
+                    "relevant_assessments": []
+                },
+                "CLO5": {
+                    "description": "Describe the characteristics and applications of electromechanical machines in renewable energy systems and perform basic calculations",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN2000": {
+                "CLO4": {
+                    "description": "Contribute to the work of a team and collaborate on the design project, including the implementation of organisational and interpersonal tools.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2051": {
+                "CLO3": {
+                    "description": "Demonstrate awareness of occupational health and safety concerns while undertaking tasks on a technical project",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO5": {
+                    "description": "Use foundational project management techniques to plan, execute and complete a design project.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Explain designs using oral, written and visual forms of professional communication within the project context. Project",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Demonstrate the attributes of an effective team member, including the use of basic organisational and interpersonal tools.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO2": {
+                    "description": "Demonstrate some key techniques and skills required for designing and siting wind energy systems as well as perform a full wind farm",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA3010": {
+                "CLO5": {
+                    "description": "Write a technical report that assesses the performance of various designs of low energy buildings and BIPV systems.",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9720": {
+                "CLO3": {
+                    "description": "Understand and be able to use the terminology associated with solar thermal energy to create a professional report.",
+                    "relevant_assessments": []
+                }
+            }
+        },
+        "3.6": {
+            "DESN2000": {
+                "CLO4": {
+                    "description": "Contribute to the work of a team and collaborate on the design project, including the implementation of organisational and interpersonal tools.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2051": {
+                "CLO4": {
+                    "description": "Design a PV/Thermal system by building and evaluating the performance of a solar panel and thermal management system",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5050": {
+                "CLO3": {
+                    "description": "Apply economics and policy concepts and frameworks to identify market failures and barriers to renewable and distributed energy deployment and integration in energy markets.",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Access market and industry data and analyse renewable energy business models and the impacts of market regulatory arrangements and policy instruments.",
+                    "relevant_assessments": []
+                },
+                "CLO2": {
+                    "description": "Describe the structure, operation and stakeholders in the Australian renewable energy industry and energy markets.",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Describe the context and drivers for renewable energy policy, with a focus on the different roles of markets and governments.",
+                    "relevant_assessments": []
+                }
+            },
+            "MINE1010": {
+                "CLO2": {
+                    "description": "Evaluate safety related hazards, their consequences, and appropriate control options",
+                    "relevant_assessments": []
+                },
+                "CLO1": {
+                    "description": "Select a mining method and a separation process matching the geological characteristics of a mineral deposit",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Analyse sustainability practices and economic drivers for the mining industry",
+                    "relevant_assessments": []
+                },
+                "CLO3": {
+                    "description": "Identify opportunities for new technologies in the mining sector",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2060": {
+                "CLO2": {
+                    "description": "Explain the operation of common semiconductor devices and calculate key parameters of these devices. Final Exam",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA2540": {
+                "CLO5": {
+                    "description": "Design a Stand-Alone PV system based on load",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5056": {
+                "CLO5": {
+                    "description": "Creatively integrate multi-disciplinary considerations into the design process and",
+                    "relevant_assessments": []
+                }
+            },
+            "DESN1000": {
+                "CLO5": {
+                    "description": "Use foundational project management techniques to plan, execute and complete a design project.",
+                    "relevant_assessments": []
+                },
+                "CLO6": {
+                    "description": "Explain designs using oral, written and visual forms of professional communication within the project context. Project",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Demonstrate the attributes of an effective team member, including the use of basic organisational and interpersonal tools.",
+                    "relevant_assessments": []
+                }
+            },
+            "SOLA5053": {
+                "CLO2": {
+                    "description": "Demonstrate some key techniques and skills required for designing and siting wind energy systems as well as perform a full wind farm",
+                    "relevant_assessments": []
+                }
+            },
+            "BIOS1301": {
+                "CLO5": {
+                    "description": "Collaborate with others to creatively solve problems.",
+                    "relevant_assessments": []
+                }
+            },
+            "MECH9761": {
+                "CLO4": {
+                    "description": "Provide technical explanations to the opportunities and limitations of alternative fuel engines, hybrid engines, and electric- drives",
+                    "relevant_assessments": []
+                }
+            },
+            "GMAT1110": {
+                "CLO2": {
+                    "description": "Demonstrate skill with various surveying instruments, forward planning for survey tasks, production of clear field notes and redundant field checks to ensure accuracy.",
+                    "relevant_assessments": []
+                }
+            },
+            "CVEN1701": {
+                "CLO2": {
+                    "description": "Evaluate and analyse simple environment-related systems by adopting environmental footprints, life cycle",
+                    "relevant_assessments": []
+                },
+                "CLO4": {
+                    "description": "Demonstrate how information from the application of these methods and tools can be applied in solution development and make recommendations towards more sustainable decision making processes.",
+                    "relevant_assessments": []
+                }
+            }
+        }
+    }
+}

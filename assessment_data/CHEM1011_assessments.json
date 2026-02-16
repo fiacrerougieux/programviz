@@ -1,0 +1,22 @@
+[
+    {
+        "item": "In-Term Tests for Threshold Content",
+        "description": "Two online multiple-choice tests (Week 5 and Week 9) assessing threshold topics. Requires 15/20 threshold mark per test with multiple resit opportunities. Tests drawn from same question bank as weekly quizzes.",
+        "weight": "32%"
+    },
+    {
+        "item": "Weekly Threshold Quizzes",
+        "description": "8 weekly multiple-choice quizzes (10 questions each) testing threshold concepts from online lessons. Requires one perfect score (10/10) within 2 weeks per quiz for credit.",
+        "weight": "8%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2hr 10min examination during official university period assessing mastery topics. Includes MCQ, short numerical and short answer questions covering lectures, tutorials and labs.",
+        "weight": "40%"
+    },
+    {
+        "item": "Laboratory Work",
+        "description": "Weekly practical assessments including core skills (hurdle requirement) and non-core skills (10% each). Requires attendance at 6/8 labs, demonstrated competency in core skills, and submission of lab reports.",
+        "weight": "20%"
+    }
+]

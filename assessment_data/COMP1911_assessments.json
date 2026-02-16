@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Problem Sets",
+        "description": "Weekly programming exercises submitted via 'give' system, focusing on one-dot and two-dot problems for full marks. Includes automatic marking and bonus marks for three-dot exercises.",
+        "weight": "15%"
+    },
+    {
+        "item": "Assignments 1",
+        "description": "Individual programming assignment on larger problems, automarked with feedback on style. Tests problem-solving with C programming fundamentals.",
+        "weight": "20%"
+    },
+    {
+        "item": "Assignment 2",
+        "description": "Individual programming assignment on complex problems, automarked with style feedback. COMP1911 students need only complete first two stages for full marks.",
+        "weight": "25%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "3-hour in-person exam with C programming tasks and code analysis. Requires passing an array-based question to meet course requirements.",
+        "weight": "40%"
+    }
+]

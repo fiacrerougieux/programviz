@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Moodle Self-Test Quizzes",
+        "description": "3 online quizzes testing understanding of previous weeks' materials, with highest grade from three attempts. Covers definitions, formulae, and problem-solving methods.",
+        "weight": "15%"
+    },
+    {
+        "item": "Exam",
+        "description": "2.5-hour final examination assessing knowledge from Weeks 1-10 through multiple-choice and short-answer questions. Tests definitions, formulae derivation, ray diagrams, and problem-solving.",
+        "weight": "55%"
+    },
+    {
+        "item": "Lab",
+        "description": "Weekly group lab reports involving measurements, calculations, and critical questions about experiments. Focuses on observation skills and understanding of lab principles.",
+        "weight": "10%"
+    },
+    {
+        "item": "Mid-Term exam",
+        "description": "Moodle-based exam covering Weeks 1-3 content with MCQ and short-answer questions. Assesses definitions, ray tracing, and problem-solving skills.",
+        "weight": "20%"
+    }
+]

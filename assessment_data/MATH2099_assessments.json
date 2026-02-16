@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Online Quizzes",
+        "description": "Weekly online quizzes covering Statistics (10 weekly quizzes) and Linear Algebra (two quizzes in Weeks 3 & 7). Includes MATLAB usage for statistics questions.",
+        "weight": "20%"
+    },
+    {
+        "item": "Statistics Midterm Test",
+        "description": "40-minute computing lab test in Week 7 covering first 5 weeks' statistics content. Requires MATLAB for data analysis and numerical responses.",
+        "weight": "10%"
+    },
+    {
+        "item": "Linear Algebra Test",
+        "description": "1-hour test during Week 9 lecture covering linear algebra topics up to Jordan forms, including definitions, theorems and problem-solving.",
+        "weight": "10%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour comprehensive exam during official exam period. Equal weighting to linear algebra (matrix exponentials, ODE systems) and statistics (ANOVA, regression). Includes MATLAB tasks and mixed question formats.",
+        "weight": "60%"
+    }
+]

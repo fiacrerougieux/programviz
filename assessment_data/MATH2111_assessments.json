@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Test 1",
+        "description": "Online quiz and written assignment assessing topics from weeks 1-2. Includes problem solving and theoretical proofs.",
+        "weight": "10%"
+    },
+    {
+        "item": "Test 2",
+        "description": "Online quiz and written assignment assessing topics from weeks 3-5. Focuses on application of concepts and rigorous proofs.",
+        "weight": "20%"
+    },
+    {
+        "item": "Test 3",
+        "description": "40-minute paper-based test assessing topics from weeks 5 and 7-9. Emphasizes computational problems and applied mathematics.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "2-hour comprehensive paper-based exam covering all course content. Requires proofs, calculations, and application of integral theorems.",
+        "weight": "50%"
+    }
+]

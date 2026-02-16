@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Tutorial Quizzes",
+        "description": "Three biweekly quizzes (Weeks 3, 5, 8) with multiple-choice and short-answer questions testing lecture/practical material. Each quiz is 20 minutes long and worth 10% of the total grade.",
+        "weight": "30%"
+    },
+    {
+        "item": "Course Project",
+        "description": "Individual critical review (750 words) correcting an AI-generated draft on a contemporary genetics topic. Requires justification of modifications with references. Due in Week 9.",
+        "weight": "30%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "Two-hour exam during formal examination period with multiple-choice and short-answer questions assessing lecture/practical content. Covers all course material.",
+        "weight": "40%"
+    }
+]

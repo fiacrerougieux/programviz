@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Group Presentation",
+        "description": "15-minute group presentation (10 minutes + 5 minutes Q&A) on a research article/video related to development/aging of the visual system, followed by discussion. Includes critical analysis and peer interaction.",
+        "weight": "20%"
+    },
+    {
+        "item": "Written Assignment",
+        "description": "Individual 400-word critical review of the article/video used in the group presentation, focusing on development/aging topics. Feedback provided via marking rubric.",
+        "weight": "10%"
+    },
+    {
+        "item": "Quiz",
+        "description": "Two online quizzes (15% each) assessing lecture material from weeks 1-7, delivered via Inspera. Feedback based on response accuracy.",
+        "weight": "30%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "2-hour online exam covering all course materials (lectures, tutorials, discussions). Includes MCQs, short answer, and extended answer questions. Results contribute to final course mark.",
+        "weight": "40%"
+    }
+]

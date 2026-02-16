@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Team presentation",
+        "description": "Group project involving critical assessment of media coverage of cancer research compared to scientific literature. Includes a 2000-word written report and mixed media presentation. Peer assessment contributes to marks.",
+        "weight": "30%"
+    },
+    {
+        "item": "Mid-term test",
+        "description": "1-hour closed-book exam with objective items (MCQs) and short-answer questions covering Weeks 1-5 content. Conducted via Inspera platform.",
+        "weight": "20%"
+    },
+    {
+        "item": "Team and individual quizzes",
+        "description": "Four short online quizzes completed individually and collaboratively with tutorial groups. Covers current course material with 50% marks from individual attempts and 50% from team attempts.",
+        "weight": "10%"
+    },
+    {
+        "item": "End-of-course examination",
+        "description": "2-hour closed-book written exam with objective items (MCQs) and short-answer questions covering all course content. Conducted via Inspera platform during UNSW examination period.",
+        "weight": "40%"
+    }
+]

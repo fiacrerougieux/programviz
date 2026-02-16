@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Quiz",
+        "description": "30-minute online open-book quiz covering the first three weeks of course content, held before the end of Week 3",
+        "weight": "5%"
+    },
+    {
+        "item": "Model Building and Evaluation",
+        "description": "Individual assignment applying existing machine learning code on benchmark datasets to learn model evaluation and result reporting, due Week 5",
+        "weight": "15%"
+    },
+    {
+        "item": "Machine Learning Project",
+        "description": "Group project applying machine learning methods to real-world applications, requiring a technical report (1000+ words with 10 references), code, and data submission, due Week 10",
+        "weight": "25%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour exam testing all course topics through MCQs, short answers, and coding/problem-solving components. Hurdle requirement: 50% minimum to pass course",
+        "weight": "55%"
+    }
+]

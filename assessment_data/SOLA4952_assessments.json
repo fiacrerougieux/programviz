@@ -1,0 +1,12 @@
+[
+    {
+        "item": "Project Update Report",
+        "description": "Update on progress and changes to project plan",
+        "weight": "33%"
+    },
+    {
+        "item": "Seminar Presentation",
+        "description": "Approximately 15 minute presentation plus questions on your project",
+        "weight": "67%"
+    }
+]

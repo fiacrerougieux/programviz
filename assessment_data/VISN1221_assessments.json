@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Final exam",
+        "description": "Assesses knowledge and skills from Weeks 1-10 through a 2.5-hour exam covering lectures, tutorials, and lab experiments",
+        "weight": "55%"
+    },
+    {
+        "item": "Moodle quizzes",
+        "description": "Assesses knowledge of previous weeks' topics through problem-solving exercises with immediate feedback",
+        "weight": "15%"
+    },
+    {
+        "item": "Mid-semester exam",
+        "description": "Tests knowledge of topics from Weeks 1-5, including definitions, formulae, ray diagrams, and problem-solving",
+        "weight": "15%"
+    },
+    {
+        "item": "Group work",
+        "description": "Involves lab measurements, calculations, problem-solving in tutorials, and journal article presentations, assessing collaboration and understanding",
+        "weight": "15%"
+    }
+]

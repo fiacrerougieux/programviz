@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Class Test 1",
+        "description": "45-minute test during Week 3 lecture time assessing topics from Weeks 1-2. Includes 2-3 problem-solving questions with multiple parts.",
+        "weight": "15%"
+    },
+    {
+        "item": "Assignment",
+        "description": "Worksheet-based in-depth assessment of topics from Weeks 1-4. Distributed in Week 4, due in Week 7. Contains 1-2 challenging problem-solving questions with multiple parts.",
+        "weight": "10%"
+    },
+    {
+        "item": "Class Test 2",
+        "description": "45-minute test during Week 8 lecture time assessing topics from Weeks 3-5. Includes 2-3 problem-solving questions with multiple parts.",
+        "weight": "15%"
+    },
+    {
+        "item": "Exam",
+        "description": "2-hour final examination covering all course topics. Consists of 4 equally weighted problem-solving questions with multiple parts during official exam period.",
+        "weight": "60%"
+    }
+]

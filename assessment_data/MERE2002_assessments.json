@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Topic Quizzes",
+        "description": "Individual multiple-choice quizzes covering each course module with self-evaluation feedback",
+        "weight": "10%"
+    },
+    {
+        "item": "Application Exercises and Team Quizzes",
+        "description": "Group work involving written material, computer code submissions, or online presentations with model answers provided post-submission",
+        "weight": "30%"
+    },
+    {
+        "item": "Take-home Assessments",
+        "description": "Two individual assignments: Week 5 short-answer questions with academic references, and Week 10 integrated 5-page report combining programming and seismic interpretation",
+        "weight": "30%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "Comprehensive exam covering all course content including seismic wave propagation, image processing, and geological interpretation",
+        "weight": "30%"
+    }
+]

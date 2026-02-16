@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Weekly Quizzes",
+        "description": "Short quizzes at the start of each lab on lecture content related to the lab activity. Best 7 of 8 quizzes are counted.",
+        "weight": "5%"
+    },
+    {
+        "item": "Laboratory",
+        "description": "8 lab experiments with pre-lab quizzes (safety and lab info) and written reports submitted one week post-lab. Best 7 of 8 labs counted. Includes attendance hurdle (minimum 7 labs).",
+        "weight": "40%"
+    },
+    {
+        "item": "In-term Tests",
+        "description": "Two restricted-note tests (1 hour each) covering course topics. Test 1 in Week 5, Test 2 in Week 9. Includes short/long answers, data interpretation, calculations, and drawing.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "2-hour exam covering all course topics and lab content. Includes multi-step questions, data interpretation, calculations, and written answers. Requires 35% minimum to pass.",
+        "weight": "35%"
+    }
+]

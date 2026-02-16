@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Seminar",
+        "description": "12-minute PowerPoint presentation on key geological aspects of a chosen ore deposit based on scientific articles. Presented in Week 10 with deposit selection in Week 2.",
+        "weight": "15%"
+    },
+    {
+        "item": "Ore Suites",
+        "description": "Analysis and description of ore suite specimens from various deposit types, requiring submission of 10 ore suite summaries with critical literature reviews. Runs from Week 1-8 with final submission in Week 9.",
+        "weight": "50%"
+    },
+    {
+        "item": "Mineral Economics Exercise",
+        "description": "Use of mathematics and Excel to analyze commodity trends and calculate mine profitability. Completed after a compulsory tutorial with 2-week submission window.",
+        "weight": "10%"
+    },
+    {
+        "item": "Lab test",
+        "description": "Identification of economic minerals in hand-specimen and under microscope, plus interpretation of ore samples' mineralogy, structure, and formation context. Conducted during Week 9 lab class.",
+        "weight": "25%"
+    }
+]

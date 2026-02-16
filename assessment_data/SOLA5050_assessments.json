@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Tutorial Facilitation",
+        "description": "Group preparation and facilitation of tutorial discussions, involving analysis of renewable energy policy impacts using market and industry data. Requires active engagement and critical evaluation of policy effectiveness.",
+        "weight": "20%"
+    },
+    {
+        "item": "Assignment",
+        "description": "Individual written report analyzing energy policies and regulations, evaluating their effectiveness, efficiency, equity, and feasibility. Includes data collection, critical thinking, and recommendations for policy improvements.",
+        "weight": "40%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour individual written examination testing understanding of renewable energy policy concepts, market structures, and their application to policy analysis and reform proposals.",
+        "weight": "40%"
+    }
+]

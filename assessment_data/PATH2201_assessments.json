@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Online quizzes",
+        "description": "Short online quizzes at the end of each module covering pathological processes and diseases. Multiple attempts allowed with highest score recorded.",
+        "weight": "15%"
+    },
+    {
+        "item": "Mid-term test",
+        "description": "1-hour invigilated test with multiple-choice and short-answer questions on content from weeks 1-3 including acute inflammation and pneumonia.",
+        "weight": "20%"
+    },
+    {
+        "item": "Pathology assignment",
+        "description": "Creation of a patient information leaflet about a selected disease (500 words) with reflection (200 words) and peer evaluation. Requires scientific literature citation.",
+        "weight": "20%"
+    },
+    {
+        "item": "End-of-course exam",
+        "description": "2-hour invigilated exam with multiple-choice questions and short-answer questions covering all course content including neoplasia and vascular diseases.",
+        "weight": "45%"
+    }
+]

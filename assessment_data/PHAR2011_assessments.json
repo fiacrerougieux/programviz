@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Quizzes",
+        "description": "Four in-class 30-minute quizzes with MCQs and SAQs, testing content from lectures and workshops. Conducted during weeks 2, 4, 7, and 10.",
+        "weight": "25%"
+    },
+    {
+        "item": "Data Analysis and Critical Evaluation Activities",
+        "description": "Individual analysis of pharmacological data from practical classes/workshops using provided worksheets. Includes two submissions: Part A (data findings) and Part B (critical evaluation).",
+        "weight": "20%"
+    },
+    {
+        "item": "Drug Development Elevator Pitch",
+        "description": "Group task involving a 3-minute presentation and 500-word report proposing a drug target for a specific condition. Includes peer evaluation of team contributions.",
+        "weight": "15%"
+    },
+    {
+        "item": "Final examination",
+        "description": "2-hour 15-minute invigilated exam via Inspera, featuring MCQs and SAQs covering lectures, practical classes, and workshop content.",
+        "weight": "40%"
+    }
+]

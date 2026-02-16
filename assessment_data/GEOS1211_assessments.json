@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Field Report",
+        "description": "Submission of a field notebook containing observations and interpretations from four local field trips. Report length: 8 pages (2 pages per trip). Assesses understanding of environmental processes through field observations.",
+        "weight": "20%"
+    },
+    {
+        "item": "Practical Assignments",
+        "description": "Laboratory-based report analyzing data from four lab classes (weeks 7-10). Requires interpretation of environmental processes through lab observations. Word limit: 2000 words.",
+        "weight": "40%"
+    },
+    {
+        "item": "Class Tests",
+        "description": "Eight weekly short tests (5% each) assessing pre-class preparation materials before lab/field sessions. Best 6 out of 8 marks count toward final grade. Conducted as pen-and-paper tests in class.",
+        "weight": "40%"
+    }
+]

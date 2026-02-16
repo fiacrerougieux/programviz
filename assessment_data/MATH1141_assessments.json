@@ -1,0 +1,27 @@
+[
+    {
+        "item": "Weekly Lessons",
+        "description": "Weekly online Möbius lessons (best 6 of 9) covering Algebra, Calculus, and Maple, plus classroom tutorial participation. Includes video lessons, exercises with feedback, and in-class activities.",
+        "weight": "15%"
+    },
+    {
+        "item": "Lab Test 1",
+        "description": "In-person test on Algebra and Calculus basic skills without software use. 40-minute duration with practice question bank provided.",
+        "weight": "10%"
+    },
+    {
+        "item": "Lab Test 2",
+        "description": "In-person test requiring Maple for some questions, covering coding topics and hand-solved problems. 40-minute duration with practice question bank.",
+        "weight": "15%"
+    },
+    {
+        "item": "Assignment",
+        "description": "Typed solutions to individualized questions focusing on written mathematical communication. Submitted via Turnitin with emphasis on clarity and explanation.",
+        "weight": "10%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "2-hour comprehensive exam assessing deeper understanding, application in new contexts, and Maple knowledge. Supervised in-person during exam period.",
+        "weight": "50%"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Midterm Test",
+        "description": "60-minute in-person invigilated test using online safe exam browser, covering Weeks 1-4 lecture material with short answer questions",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour in-person invigilated exam through safe exam browser, assessing all course content with MCQ, short numerical, and short answer questions",
+        "weight": "30%"
+    },
+    {
+        "item": "Laboratory Reports",
+        "description": "Two individual lab reports analyzing data from design-build-test practicals involving computational design and wet lab construction of biological systems",
+        "weight": "30%"
+    },
+    {
+        "item": "Synthetic Biology Innovation Project",
+        "description": "Group project involving development of synthetic biology invention with 3-page report and 10-minute presentation, assessed on literature analysis, engineering principles, and communication skills",
+        "weight": "20%"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "item": "One minute me",
+        "description": "Brief personal video introduction with transcript, including reasons for entering the course and goals. Requires completion of FWS survey and submission in multiple parts.",
+        "weight": "10%"
+    },
+    {
+        "item": "Skills Dashboard",
+        "description": "Tracking and demonstrating skills progress through mapped assessments from 2nd/3rd year. Requires completion of mandatory activities and achieving minimum 40 points per Program Learning Outcome (PLO).",
+        "weight": "50%"
+    },
+    {
+        "item": "Evidence Showcase and repository",
+        "description": "Curated professional ePortfolio demonstrating Program Learning Outcomes through coursework examples and external evidence. Includes portfolio-based resume (e.g., LinkedIn profile) and graduate digital portfolio for employability.",
+        "weight": "40%"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Virtual Practice Set",
+        "description": "Record transactions and generate financial statements using Xero accounting software, with analysis. Involves two submissions in Weeks 8 and 9.",
+        "weight": "20%"
+    },
+    {
+        "item": "Research Assignment",
+        "description": "Individual or paired research project analyzing real-world company financial statements, focusing on accounting policies and factors affecting financial reporting.",
+        "weight": "20%"
+    },
+    {
+        "item": "Class Participation",
+        "description": "Assessed on active contributions to tutorial discussions, preparation quality, and engagement in group activities throughout the term.",
+        "weight": "10%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour 10-minute invigilated exam on Inspera platform testing comprehensive understanding of financial statement preparation and analysis concepts.",
+        "weight": "50%"
+    }
+]

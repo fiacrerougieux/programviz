@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Practical Assignment",
+        "description": "Experimental design assignment applying knowledge to solve real-life problems, submitted by end of Week 9",
+        "weight": "20%"
+    },
+    {
+        "item": "Test 1",
+        "description": "35-minute test on lectures 1-6 and week 2 practical content with multiple choice and short-answer questions",
+        "weight": "20%"
+    },
+    {
+        "item": "Test 2",
+        "description": "35-minute test on lectures 7-12 with multiple choice and short-answer questions",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "1.5-hour exam on lectures 13-24 and flow cytometry practicals with short answer and essay questions",
+        "weight": "40%"
+    }
+]

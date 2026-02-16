@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Laboratory Work",
+        "description": "Three practical quizzes (4% each) assessing content from specific practical sessions, and submission of a Laboratory Notebook (10%) presenting experimental data and discussion questions from Weeks 2-4 and 7-8 practicals.",
+        "weight": "22%"
+    },
+    {
+        "item": "Mid-Term Test",
+        "description": "1-hour test covering Weeks 1-5 lecture material with multiple-choice, short response, and essay questions. Conducted in Week 7.",
+        "weight": "30%"
+    },
+    {
+        "item": "RNA-Seq Analysis Presentation",
+        "description": "10-minute individual presentation with 5-minute Q&A on RNA-seq analysis from Practical 5 and independent literature research. Presented during Week 9 lab sessions.",
+        "weight": "18%"
+    },
+    {
+        "item": "Final Theory Exam",
+        "description": "1-hour exam during formal examination period assessing Weeks 7-10 lecture material with multiple-choice, short response, and essay questions.",
+        "weight": "30%"
+    }
+]

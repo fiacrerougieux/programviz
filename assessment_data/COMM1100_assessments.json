@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Tutorial participation",
+        "description": "Quality and frequency of participation in tutorials assessed from Week 2-10, calculated as average of best 6 out of 8 tutorial marks",
+        "weight": "10%"
+    },
+    {
+        "item": "Problem Set",
+        "description": "Timed online quiz in Week 4 assessing core concepts through multiple choice, short essay, or numerical response questions with individualized question sets",
+        "weight": "15%"
+    },
+    {
+        "item": "Case study analysis",
+        "description": "1200-word written analysis applying course concepts to a business case, submitted as PDF/Word document via Turnitin",
+        "weight": "25%"
+    },
+    {
+        "item": "Final exam",
+        "description": "Online exam with two parts: Part 1 requires case analysis using research from UNSW Library resources, Part 2 features problem set questions similar to Assessment 2",
+        "weight": "50%"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Final exam",
+        "description": "2-hour examination during term's exam period with short and long-form answer questions testing synthesis of course material",
+        "weight": "30%"
+    },
+    {
+        "item": "Research project presentation",
+        "description": "Individual presentation of climate model experiment results from self-designed project, assessed on problem understanding, contextualization, and presentation clarity",
+        "weight": "20%"
+    },
+    {
+        "item": "Midterm test",
+        "description": "2-hour test in week 5 with short and long-form answer questions assessing course material understanding",
+        "weight": "20%"
+    },
+    {
+        "item": "Tutorial assessment",
+        "description": "Seven tutorial problem sets combining computer-based and theoretical tasks, submitted fortnightly for grading",
+        "weight": "30%"
+    }
+]

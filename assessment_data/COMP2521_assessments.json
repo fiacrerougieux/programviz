@@ -1,0 +1,27 @@
+[
+    {
+        "item": "Labs",
+        "description": "Weekly programming exercises focusing on problem solving and program development, with automarking for correctness and handmarking for style/complexity analysis. Best 7 out of 8 labs count.",
+        "weight": "15%"
+    },
+    {
+        "item": "Quizzes",
+        "description": "Weekly online quizzes testing understanding of lecture content. Best 7 out of 8 quizzes count.",
+        "weight": "10%"
+    },
+    {
+        "item": "Assignment 1 - Trees",
+        "description": "Development of a C program based on tree data structures, assessed via automarking and tutor evaluation of programming style.",
+        "weight": "15%"
+    },
+    {
+        "item": "Assignment 2 - Graphs",
+        "description": "Development of a C program based on graph data structures, assessed via automarking and tutor evaluation of programming style.",
+        "weight": "15%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "3-hour closed-book exam with theory and programming questions, requiring minimum 40% score (18/45) and 25% per component to pass. Includes both practical and theoretical components.",
+        "weight": "45%"
+    }
+]

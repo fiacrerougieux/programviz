@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Laboratory",
+        "description": "Completion of several three-hour laboratory sessions with written accounts and interviews. Evaluates understanding of physical principles and quality of experimental results/analysis.",
+        "weight": "20%"
+    },
+    {
+        "item": "Quizzes/Assignments",
+        "description": "Continuous weekly assessment involving 1-2 exam-style problems focused on problem-solving skills related to course content, with feedback provided during tutorials.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2-hour written examination during the exam period assessing comprehensive understanding of quantum mechanics principles and mathematical frameworks.",
+        "weight": "60%"
+    }
+]

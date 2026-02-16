@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Seminar Presentation",
+        "description": "Pre-recorded 3-minute seminar presentation on a research paper followed by peer reviews of other students' seminars. Includes translating scientific content into plain English for non-expert audiences.",
+        "weight": "20%"
+    },
+    {
+        "item": "Field trip report",
+        "description": "Individual scientific paper (4-6 pages) based on data collected during a compulsory 4-day field trip to Smiths Lake. Written under exam conditions with a 2-hour time limit, requiring literature review and referencing.",
+        "weight": "35%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour supervised exam with multiple choice and short answer questions covering lecture material from weeks 1-10. Includes sections on marine chemistry, biology, oceanography, and post-week 6 content.",
+        "weight": "45%"
+    }
+]

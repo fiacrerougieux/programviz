@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Assignment",
+        "description": "Set of challenging problems requiring analytical and numerical techniques, released around Week 8 with a week for submission",
+        "weight": "15%"
+    },
+    {
+        "item": "Weekly Quizzes",
+        "description": "8 short weekly quizzes testing understanding of previous week's concepts with instant feedback",
+        "weight": "15%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2-hour exam covering all topics, involving analytical problem-solving and concept summaries",
+        "weight": "55%"
+    },
+    {
+        "item": "Mid-term test",
+        "description": "50-minute in-class test around Week 5 on first part of the course, focusing on analytical problem-solving",
+        "weight": "15%"
+    }
+]

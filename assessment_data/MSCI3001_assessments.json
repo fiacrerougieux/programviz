@@ -1,0 +1,22 @@
+[
+    {
+        "item": "MATLAB assessments",
+        "description": "Three MATLAB code writing tasks with short descriptions analyzing oceanographic data, integrated into computer labs (Weeks 7, 8, 10)",
+        "weight": "22%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "Two-hour exam during normal exam period with short and long format questions covering all lecture/tutorial content",
+        "weight": "30%"
+    },
+    {
+        "item": "Research Project",
+        "description": "Term-long individual project involving a research topic choice, 1200-1500 word report (15%), and 5-minute presentation (5%) with Week 4 outline feedback",
+        "weight": "20%"
+    },
+    {
+        "item": "Tutorial assessments",
+        "description": "Two quantitative assessments based on tutorial/exam style questions (Weeks 7 and 9)",
+        "weight": "28%"
+    }
+]

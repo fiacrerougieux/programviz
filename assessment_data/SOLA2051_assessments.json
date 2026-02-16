@@ -1,0 +1,27 @@
+[
+    {
+        "item": "Design: Final report",
+        "description": "Analysis of system performance compared to simulations with self-assessment section. Includes a 7500-word report and peer assessment weighting.",
+        "weight": "25%"
+    },
+    {
+        "item": "Design project (Demonstration)",
+        "description": "Outdoor team demonstration of a working system with real-time performance monitoring and peer comparison. Includes weather-contingent testing in Week 10.",
+        "weight": "15%"
+    },
+    {
+        "item": "Individual lab reports",
+        "description": "Self-guided laboratory reports with automated/tutor marking. Weekly submissions (Sunday deadlines) to ensure individual effort verification.",
+        "weight": "20%"
+    },
+    {
+        "item": "Individual Prelabs",
+        "description": "Mandatory online quizzes (Weeks 2-5) completed before lab sessions to unlock activities. Automatically marked.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam (Video documentary)",
+        "description": "5-minute team documentary video presented during exam session, evaluated by peers/staff. Requires attendance for peer rating.",
+        "weight": "20%"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Writing for Psychology",
+        "description": "Two-part individual assessment: Part A (Research Summary) involves locating and critically evaluating an empirical article; Part B (Essay) requires researching, evaluating, and synthesizing psychological research into an evidence-based argument.",
+        "weight": "40%"
+    },
+    {
+        "item": "Group Presentation",
+        "description": "Group project involving researching, presenting, and analyzing psychological research, followed by proposing an original study. Submitted as a video recording, with peer and tutor evaluation of individual contribution.",
+        "weight": "21%"
+    },
+    {
+        "item": "Research Participation",
+        "description": "Compulsory participation in psychological studies via SONA system (4 hours for 4% credit). Optional additional participation for bonus marks. Provides firsthand experience with research methods and ethics.",
+        "weight": "4%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "Comprehensive exam covering all lecture and tutorial content during the university examination period. Tests understanding of psychological theories, methods, and applications.",
+        "weight": "35%"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Group presentation",
+        "description": "15-minute group video submission analyzing real-world financial scenarios with Q&A session in week 10 tutorial",
+        "weight": "25%"
+    },
+    {
+        "item": "Tutorial Contribution",
+        "description": "Individual assessment of weekly preparation, participation, and engagement in tutorial discussions and activities",
+        "weight": "15%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2-hour invigilated campus exam testing technical competence, problem-solving, and understanding of financial management concepts from weeks 1-10",
+        "weight": "60%"
+    }
+]

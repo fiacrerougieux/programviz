@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Concept quizzes",
+        "description": "Online quizzes assessing understanding of practical class concepts through multiple choice, short calculations, and fill-in-the-blanks questions. Feedback provided after closure.",
+        "weight": "15%"
+    },
+    {
+        "item": "Progress test",
+        "description": "In-person invigilated test with short answer questions, multiple choice, and calculations based on lectures, practical classes and tutorials. Completed using personal laptop.",
+        "weight": "20%"
+    },
+    {
+        "item": "Collaborative project",
+        "description": "Group research project on ion channels and associated diseases, including scoping report, final review-style article (2500 words), and individual teamwork reflection (800 words). Involves team agreements and peer contribution statements.",
+        "weight": "25%"
+    },
+    {
+        "item": "End of session exam",
+        "description": "Final in-person invigilated exam during examination period featuring short answer questions, multiple choice, and calculations based on lecture and tutorial content. Completed using personal laptop.",
+        "weight": "40%"
+    }
+]

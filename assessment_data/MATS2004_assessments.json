@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Assignments",
+        "description": "Multiple choice quizzes (Parts 1a & 1b) and written assignment (Part 2) covering lecture content. Includes stress/strain analysis, failure prediction, and material behavior concepts.",
+        "weight": "20%"
+    },
+    {
+        "item": "Mid-Session Test",
+        "description": "2-hour online open-book test assessing content from first half of term. Includes numerical problems and short answers on stress transformations, failure criteria, and mechanical analysis.",
+        "weight": "30%"
+    },
+    {
+        "item": "Laboratory Reports",
+        "description": "Four individual reports on mechanical testing labs: tensile testing (metals), hardness testing, strain rate effects (polymers), and Charpy impact testing. Requires data analysis and property determination.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2hr 10min exam during university examination period. Assesses second half content including deformation mechanisms, creep, fatigue, and temperature/strain rate effects on materials.",
+        "weight": "30%"
+    }
+]

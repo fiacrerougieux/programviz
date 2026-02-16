@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Course Project",
+        "description": "Group and individual components involving isolation, characterization, and identification of microbes using lab techniques and DNA sequencing. Includes rationale, draft report, peer review, and final report submissions.",
+        "weight": "30%"
+    },
+    {
+        "item": "Pre-Lab Quizzes and Weekly Activity Quizzes",
+        "description": "Individual weekly quizzes covering lab preparation and lecture/practical content. Includes 8 pre-lab quizzes (0.5% each) and 8 weekly activity quizzes (2% each) with multiple attempts allowed.",
+        "weight": "20%"
+    },
+    {
+        "item": "Mid-term Theory Test",
+        "description": "50-minute online MCQ test assessing weeks 1-4 lecture, tutorial, and practical content. Conducted via Inspera during week 5 tutorial slot.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Theory Examination",
+        "description": "2-hour online Inspera exam combining MCQs and short answers, covering weeks 5-10 content. Includes mock exam practice in week 10.",
+        "weight": "30%"
+    }
+]

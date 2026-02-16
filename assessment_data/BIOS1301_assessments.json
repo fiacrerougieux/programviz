@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Threats to Biodiversity Presentation",
+        "description": "Group presentation on an Australian ecosystem, its key threatening process, and creative solutions. Includes individual reflection and contributions to group discussions.",
+        "weight": "15%"
+    },
+    {
+        "item": "Mid-Term Test",
+        "description": "Multiple choice test covering lecture content from weeks 1-4, taken at the end of week 4 to assess understanding of foundational concepts.",
+        "weight": "15%"
+    },
+    {
+        "item": "Biodiversity Report",
+        "description": "Individual scientific report in journal article format using field trip data. Includes three submissions: Introduction (15%), Methods/Results (10%), and Discussion/Abstract/References (20%) with iterative feedback.",
+        "weight": "45%"
+    },
+    {
+        "item": "Final Test",
+        "description": "Quizzes with multiple choice and short answer questions assessing understanding of lecture content from weeks 5-9, focusing on real-world case studies and ecological threat management.",
+        "weight": "25%"
+    }
+]

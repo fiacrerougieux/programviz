@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Problem based learning",
+        "description": "Effective participation and individual presentations in three of four problem-based learning (PBL) classes. Includes group discussions, presentations (5 minutes each with 1-page handout), and self-directed learning components.",
+        "weight": "15%"
+    },
+    {
+        "item": "Mid-term test",
+        "description": "2-hour individual test with multiple choice questions and short answers covering the Endocrine component of the course. Includes practice materials and feedback.",
+        "weight": "30%"
+    },
+    {
+        "item": "Endocrine Assignment",
+        "description": "2000-word individual written report based on an endocrinology case study. Requires research, scientific communication, and self-directed learning to address knowledge gaps.",
+        "weight": "15%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2-hour individual exam during UNSW exam period with multiple choice questions and short answers assessing Reproduction, Fetal, and Developmental Physiology components. Includes practice materials and feedback.",
+        "weight": "40%"
+    }
+]

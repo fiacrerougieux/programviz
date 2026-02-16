@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Quiz 1",
+        "description": "Assesses background knowledge and material from Weeks 1-3. Online quiz with 48-hour submission window released in Week 4.",
+        "weight": "20%"
+    },
+    {
+        "item": "Quiz 2",
+        "description": "Assesses material from Weeks 1-9. Online quiz with 48-hour submission window released in Week 10.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "2-hour online exam covering all course topics, typically consisting of 4 main questions. Conducted during official university examination period.",
+        "weight": "60%"
+    }
+]

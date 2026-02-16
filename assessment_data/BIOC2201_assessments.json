@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Quiz",
+        "description": "Four fortnightly quizzes covering lecture material (DNA replication, transcription, translation, gene expression, molecular techniques). Includes multiple-choice, short answer, and essay questions. Conducted via Moodle/Inspera during tutorial sessions.",
+        "weight": "20%"
+    },
+    {
+        "item": "Laboratory Report",
+        "description": "7-page scientific report analyzing simulated data from Lab 4 experiments on gene expression. Requires interpretation of results, literature references, and professional scientific communication. Submitted via Turnitin.",
+        "weight": "20%"
+    },
+    {
+        "item": "Practical Test",
+        "description": "2-hour invigilated test covering laboratory theory, calculations, methodologies, safety protocols, and expected outcomes from all practical classes. Includes multiple-choice and short-answer questions. Conducted on-campus in Week 10.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour invigilated exam assessing all lecture content (nucleic acid structure, gene regulation, molecular techniques). Features multiple-choice, short answer, and essay questions. Conducted during official exam period.",
+        "weight": "40%"
+    }
+]

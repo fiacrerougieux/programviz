@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Assignment",
+        "description": "Typed solutions to open-ended mathematical problems focusing on communication of ideas and correctness. Involves solving questions using Word/LaTeX with feedback provided.",
+        "weight": "20%"
+    },
+    {
+        "item": "Mid-Term Test",
+        "description": "50-minute in-person test assessing mastery of weeks 1-5 content (real numbers, sequences, limits, continuity). Held during Week 7 class.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2-hour comprehensive exam during official university examination period covering all course topics (limits, continuity, differentiation, integration).",
+        "weight": "50%"
+    },
+    {
+        "item": "Examples Portfolio",
+        "description": "Two-part submission: initial draft solutions to foundational problems (3%) and revised solutions demonstrating course learning (7%). Combines handwritten and typed components with reflection.",
+        "weight": "10%"
+    }
+]

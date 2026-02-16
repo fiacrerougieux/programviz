@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Early-term quiz",
+        "description": "Multiple-choice quiz testing factual knowledge and critical reasoning skills related to lecture material, assigned readings, and tutorial content from early part of term. Administered in Week 4.",
+        "weight": "15%"
+    },
+    {
+        "item": "Research Proposal",
+        "description": "Individual research proposal development involving group collaboration for literature review and brainstorming. Requires designing a developmental psychology study with hypothesis, methodology, and analysis plan. Submitted individually after peer feedback.",
+        "weight": "40%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour essay/long answer examination during university exam period covering current methods, findings and theories from lectures and tutorials. Tests understanding of developmental psychology concepts and applications.",
+        "weight": "45%"
+    }
+]

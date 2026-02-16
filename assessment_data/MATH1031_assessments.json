@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Mastery tests",
+        "description": "Three supervised on-campus tests in weeks 4, 7 and 10 using pre-released question banks. Tests focus on practicing questions quickly/accurately with immediate feedback. Each test worth 15%.",
+        "weight": "45%"
+    },
+    {
+        "item": "Online tests",
+        "description": "8 weekly tests with Maple software components. Best 6 of 8 results count. Includes unlimited attempts with instant feedback. Focus on basic skills and mathematical software use.",
+        "weight": "10%"
+    },
+    {
+        "item": "Assignment",
+        "description": "Two-part individual assignment: Part A analyzes interdisciplinary math applications from videos; Part B involves writing solutions to exam-style questions with peer assessment. Emphasizes written communication skills.",
+        "weight": "10%"
+    },
+    {
+        "item": "End of term exam",
+        "description": "Supervised 2-hour exam during official exam period testing advanced problem-solving, mathematical modeling, and novel application of techniques. Requires 50/65 pre-exam marks for eligibility.",
+        "weight": "35%"
+    }
+]

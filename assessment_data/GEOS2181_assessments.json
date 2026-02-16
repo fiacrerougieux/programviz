@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Weekly quizzes",
+        "description": "Answer 8 weekly multiple-choice quizzes covering lecture and lab content. Quizzes 1-7 (2% each), Quiz 8 (6%). Conducted during lab classes with feedback provided afterward.",
+        "weight": "20%"
+    },
+    {
+        "item": "Field Trip Report",
+        "description": "Individual report analyzing geological relationships of outcrops and their connection to the Sydney Basin's evolution. Requires figures, tables, and scientific references (1500-3000 words).",
+        "weight": "10%"
+    },
+    {
+        "item": "Lab test",
+        "description": "Practical exam identifying minerals and rocks in hand-specimen or thin-section during a 2-hour lab session. Uses fill-in answer sheets for specimen naming.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour 10-minute comprehensive exam with MCQ, short-answer, and problem-solving questions covering lectures, labs, and fieldwork. Hurdle requirement: 50% minimum to pass the course.",
+        "weight": "50%"
+    }
+]

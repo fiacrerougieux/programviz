@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Assignment",
+        "description": "Individual assignment synthesizing mathematical theory and practical computation, covering all course material. Requires interpretation and presentation of numerical results.",
+        "weight": "20%"
+    },
+    {
+        "item": "Lab test",
+        "description": "1-hour individual programming exam under timed conditions. Tests ability to write/modify MATLAB code implementing numerical methods from lectures.",
+        "weight": "15%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2hr 10min comprehensive individual exam covering all course topics. Includes short/long answer questions on theory, applications, and numerical methods.",
+        "weight": "50%"
+    },
+    {
+        "item": "Written test",
+        "description": "Two-part individual test: Part 1 (Week 4) covers probability spaces, stochastic integrals; Part 2 (Week 8) covers Euler-Maruyama and Milstein methods.",
+        "weight": "15%"
+    }
+]

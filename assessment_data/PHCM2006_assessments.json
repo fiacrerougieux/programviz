@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Policy Brief",
+        "description": "Prepare a policy brief outlining a public health issue, its significance, policy recommendations, and evidence-based rationale in a structured format.",
+        "weight": "20%"
+    },
+    {
+        "item": "Presentation",
+        "description": "Deliver a recorded presentation analyzing stakeholders' roles, advocacy strategies, resources, influence, and impacts on public health policy implementation.",
+        "weight": "30%"
+    },
+    {
+        "item": "Report",
+        "description": "Write a critical evaluation report assessing a real-world public health policy's effectiveness, strengths, weaknesses, and evidence-based improvement recommendations.",
+        "weight": "50%"
+    }
+]

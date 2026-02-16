@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Continuous assessment",
+        "description": "Weekly multiple choice quizzes and team-based assignments applying anatomical knowledge to case studies, including analysis of muscle involvement and clinical conditions",
+        "weight": "20%"
+    },
+    {
+        "item": "Spot test - Lower limb",
+        "description": "Lab-based identification of lower limb structures using specimens, models, and radiographs, with theory/application questions about anatomical features",
+        "weight": "20%"
+    },
+    {
+        "item": "Spot test - Upper limb",
+        "description": "Lab-based identification of upper limb structures using specimens, models, and radiographs, with theory/application questions about anatomical features",
+        "weight": "20%"
+    },
+    {
+        "item": "Final examination",
+        "description": "2-hour written exam assessing application of anatomical knowledge to limb movement principles, clinical cases, and interpretation of medical imaging",
+        "weight": "40%"
+    }
+]

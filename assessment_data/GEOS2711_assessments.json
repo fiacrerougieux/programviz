@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Short-written assignment - climate",
+        "description": "Select sites and download climatic data across Sydney, summarize trends, and answer questions about climatic controls. Includes optional graphs/tables and scientific literature integration.",
+        "weight": "15%"
+    },
+    {
+        "item": "Short-written assignment - vegetation",
+        "description": "Respond to questions describing Sydney Basin Bioregion vegetation patterns and their controls at different spatial scales. Encourages creative presentation (tables/illustrations) with <6 page limit.",
+        "weight": "15%"
+    },
+    {
+        "item": "Major Report",
+        "description": "Use field data and analyses to describe Sydney Basin plant communities, their distribution factors, post-development changes, and conservation status. Includes scientific illustrations and references (<8 pages).",
+        "weight": "20%"
+    },
+    {
+        "item": "Exam",
+        "description": "2hr 10min in-person exam during university exam period covering all course content via MCQs and written answers. Hurdle requirement: >50% needed to pass course.",
+        "weight": "50%"
+    }
+]

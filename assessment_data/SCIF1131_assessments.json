@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Weekly Project Workbook",
+        "description": "Interactive Moodle workbook tasks completed weekly with group and individual components, documenting team project progress. Submissions due in Week 5 (Worksheets 1-5) and Week 10 (Worksheets 7-9).",
+        "weight": "50%"
+    },
+    {
+        "item": "Thinking Like a Research Scientist: Team-Based Learning Activities",
+        "description": "Weekly pre-class quizzes followed by in-class group discussions and repeated individual quizzes. Best 6 weekly scores counted (lowest 2 dropped), combining pre-class (70%) and during-class (30%) results.",
+        "weight": "20%"
+    },
+    {
+        "item": "Presenting Your Project",
+        "description": "5-10 minute individual project pitch in Week 10 showcasing discipline-specific contributions to an interdisciplinary team project, using slides/videos/models.",
+        "weight": "10%"
+    },
+    {
+        "item": "How Science Advances: Exploring Technological Evolution and Impact",
+        "description": "1500-2000 word article analyzing a technology's scientific evolution and societal impact, written in style of academic journalism. Submitted in Week 7.",
+        "weight": "20%"
+    }
+]

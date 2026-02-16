@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Laboratory work",
+        "description": "Weekly laboratory classes involving synthesis, characterization of substances, and development of practical skills. Includes core skill competency requirements and non-core skill assessments.",
+        "weight": "20%"
+    },
+    {
+        "item": "Weekly revision quizzes",
+        "description": "9 weekly online quizzes testing fundamental principles from lectures and digital lessons. Best 7 results count toward final mark. Includes multiple attempts with feedback.",
+        "weight": "10%"
+    },
+    {
+        "item": "Midterm tests",
+        "description": "Two in-person tests covering course topics 1-4 (Week 5) and 5-8 (Week 9). Provides feedback on learning outcomes through exam-style questions.",
+        "weight": "30%"
+    },
+    {
+        "item": "Final exam",
+        "description": "Comprehensive online examination covering all course content including lectures, tutorials and labs. Features multiple question types requiring use of chemical drawing tools.",
+        "weight": "40%"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Quizzes",
+        "description": "Online quizzes assessing understanding of course material, with four quizzes throughout the term (1-1.5 hours each). Feedback provided via LMS.",
+        "weight": "20%"
+    },
+    {
+        "item": "Lab reports",
+        "description": "Individual reports (6-10 pages each) answering questions from practical lab projects on solar cells and systems. Marked against criteria with LMS feedback.",
+        "weight": "30%"
+    },
+    {
+        "item": "PV System Design",
+        "description": "Capstone project involving stand-alone PV system design with four deliverables: preliminary design report, presentation, final report, and reflection report. Includes component sizing, economic analysis, and compliance with Australian standards. Hurdle requirement: minimum 60% to pass.",
+        "weight": "50%"
+    }
+]

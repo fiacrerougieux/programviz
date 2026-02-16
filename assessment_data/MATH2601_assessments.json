@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Class Test 1",
+        "description": "Online component (6%) via Mobius and written test (15%) covering Weeks 1-3 material including first-year linear algebra revision. Written test lasts 40-60 minutes during lecture block.",
+        "weight": "21%"
+    },
+    {
+        "item": "Short assignment",
+        "description": "Individual written assignment focusing on mathematical writing quality. Covers first third of course material. Submitted via Moodle (handwritten or typed).",
+        "weight": "10%"
+    },
+    {
+        "item": "Class Test 2",
+        "description": "Online component (6%) via Mobius and written test (15%) covering Weeks 4-8 material. Written test lasts 40-60 minutes during lecture block.",
+        "weight": "21%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour comprehensive exam with emphasis on second half of course. Covers all material with focus on Weeks 4-10 content. Handwritten in-person examination.",
+        "weight": "48%"
+    }
+]

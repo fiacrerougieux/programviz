@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Psychological Research in Action",
+        "description": "Part A: Participate in psychological research via SONA system (4% compulsory, up to 4% bonus). Part B: Attend Week 5 tutorial to discuss research design and submit peer feedback (4%).",
+        "weight": "8%"
+    },
+    {
+        "item": "Building a research rationale",
+        "description": "Part A: Complete 3 online modules on academic integrity, writing, and media (3%). Part B: Write a research summary of an academic article (7%). Part C: Develop a research proposal with literature review and rationale (40%).",
+        "weight": "50%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "Exam during UNSW exam period covering lectures, tutorials, and course materials. Tests understanding of theoretical approaches, research evaluation, and real-world applications.",
+        "weight": "42%"
+    }
+]

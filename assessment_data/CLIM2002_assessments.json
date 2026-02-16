@@ -1,0 +1,42 @@
+[
+    {
+        "item": "Assignment 1",
+        "description": "Engage with climate projections data, assess climate risks and impacts, and evaluate solutions using past and future climate data.",
+        "weight": "20%"
+    },
+    {
+        "item": "Assignment 2",
+        "description": "Assess climate risks and impacts through data analysis and propose mitigation strategies for specific sectors.",
+        "weight": "20%"
+    },
+    {
+        "item": "Assignment 3",
+        "description": "Evaluate climate risk solutions and communicate sustainable approaches for stakeholders.",
+        "weight": "10%"
+    },
+    {
+        "item": "Climate Conundrums Discussion Forum (Mid-term)",
+        "description": "Weekly contributions to forum discussions on climate topics, assessed for research, analysis, and communication skills (mid-term assessment).",
+        "weight": "10%"
+    },
+    {
+        "item": "Climate Conundrums Discussion Forum (End-term)",
+        "description": "Continued participation in forum discussions, demonstrating critical engagement with course themes (end-term assessment).",
+        "weight": "10%"
+    },
+    {
+        "item": "Online Test 1",
+        "description": "Multiple choice test covering climate processes, data analysis, and risk frameworks from weeks 1-3.",
+        "weight": "10%"
+    },
+    {
+        "item": "Online Test 2",
+        "description": "Multiple choice test assessing understanding of climate projections, sectoral impacts, and adaptation strategies from weeks 4-6.",
+        "weight": "10%"
+    },
+    {
+        "item": "Online Test 3",
+        "description": "Multiple choice test evaluating knowledge of mitigation actions, technological risks, and global frameworks from weeks 7-10.",
+        "weight": "10%"
+    }
+]

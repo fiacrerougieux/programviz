@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Class test",
+        "description": "Mid-term test assessing topics from lectures and tutorials, focusing on problem solving, logical reasoning, and proofs. Conducted in Week 8 with 1-hour duration.",
+        "weight": "25%"
+    },
+    {
+        "item": "Final exam",
+        "description": "Supervised 2-hour 10-minute exam covering all course topics, including theory and practical applications of complex analysis. Includes questions on integral theorems, residues, and real integrals.",
+        "weight": "60%"
+    },
+    {
+        "item": "Weekly lessons",
+        "description": "Combines online Mobius quizzes (10% weight for best 7/9 quizzes) and tutorial engagement (5% weight for active participation in 7/9 sessions). Focuses on foundational knowledge and collaborative problem-solving.",
+        "weight": "15%"
+    }
+]

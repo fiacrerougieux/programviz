@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Mid-term theory test",
+        "description": "Multiple choice and short answer questions on Endocrine Physiology and Reproductive Physiology lecture/tutorial material",
+        "weight": "20%"
+    },
+    {
+        "item": "End of term examination",
+        "description": "Two-part exam: Part 1 (35%) tests Respiratory, Kidney/Body Fluids and Gastrointestinal systems; Part 2 (25%) tests practical class content through MCQs",
+        "weight": "60%"
+    },
+    {
+        "item": "Online tutorial modules",
+        "description": "Five interactive tutorial modules with embedded quizzes requiring ≥90% score for credit. Covers major lecture topics",
+        "weight": "10%"
+    },
+    {
+        "item": "Post-lab revision modules",
+        "description": "Four practical class revision modules with quizzes requiring ≥90% score for credit. Consolidates face-to-face lab work",
+        "weight": "10%"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Major project",
+        "description": "Group project involving designing a health psychology initiative, pitching ideas (week 3), presenting a 10-minute group presentation (week 8), and submitting an individual 2000-word report (week 10). Includes application of course concepts to community health improvement.",
+        "weight": "35%"
+    },
+    {
+        "item": "Mid-term test",
+        "description": "50-minute individual test in week 5 assessing understanding of weeks 1-4 content through multiple choice and short answer questions. Covers lectures, readings, and tutorials.",
+        "weight": "25%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2-hour individual examination during university exam period assessing full course content through multiple choice and short answer questions. Tests understanding of health psychology principles and their application.",
+        "weight": "40%"
+    }
+]

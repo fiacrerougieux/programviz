@@ -1,0 +1,37 @@
+[
+    {
+        "item": "Work Placement Preparation - Placement Plan",
+        "description": "Creation of a professional development plan in collaboration with a workplace supervisor, identifying goals and skills to develop during placement.",
+        "weight": "15%"
+    },
+    {
+        "item": "Work Placement Preparation - WIL Modules",
+        "description": "Completion of three online modules (one discipline-specific, two professional development) with summative quizzes. Modules focus on workplace skills and career alignment.",
+        "weight": "15%"
+    },
+    {
+        "item": "Work Placement e-portfolio - Overcoming Challenges",
+        "description": "300-word reflection using STAR+R template to describe and analyze a workplace challenge overcome during placement.",
+        "weight": "10%"
+    },
+    {
+        "item": "Work Placement e-portfolio - Self-Assessment Report",
+        "description": "650-word structured reflection on progress toward placement goals and post-graduation plans, completed in final placement week.",
+        "weight": "15%"
+    },
+    {
+        "item": "Work Placement e-portfolio - Job Application Skills",
+        "description": "Responses to selection criteria from two job listings (250 words each), demonstrating ability to articulate placement-related experience.",
+        "weight": "15%"
+    },
+    {
+        "item": "Work Placement e-portfolio - Mock Interview",
+        "description": "7-10 minute recorded mock interview with three questions, testing oral communication and interview techniques.",
+        "weight": "10%"
+    },
+    {
+        "item": "Supervisor’s Report",
+        "description": "Workplace supervisor's evaluation of student professionalism, motivation, initiative, and workplace contribution using performance criteria.",
+        "weight": "20%"
+    }
+]

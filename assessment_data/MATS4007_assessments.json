@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Corrosion Laboratory and Demonstration",
+        "description": "Laboratory exercise applying corrosion theory, testing methods, data analysis, and report submission on corrosion behavior of materials.",
+        "weight": "10%"
+    },
+    {
+        "item": "Mid-term Test",
+        "description": "2-hour in-class test covering Weeks 1-5 topics with multiple-choice, numerical, and descriptive questions on corrosion concepts.",
+        "weight": "30%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour exam during the official exam period covering Weeks 5-10 topics, assessing application of concepts via descriptive questions.",
+        "weight": "30%"
+    },
+    {
+        "item": "Assignments",
+        "description": "Three short assignments (corrosion, wear, surface engineering) involving essays or questions with written/numerical answers to explore real-world applications.",
+        "weight": "30%"
+    }
+]

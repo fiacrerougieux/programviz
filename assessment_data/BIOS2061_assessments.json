@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Practical Class Reports",
+        "description": "Six reports on practical topics (chordates, sharks, bony fish, frogs & reptiles, birds, mammals) involving lab work, drawings, and a field trip. Each report is submitted during specified weeks and provides feedback for course content understanding.",
+        "weight": "30%"
+    },
+    {
+        "item": "First Practical Test",
+        "description": "Multiple-choice questionnaire in Week 4 assessing content from initial practical sessions. Conducted online in the BEES computer laboratory.",
+        "weight": "10%"
+    },
+    {
+        "item": "Final Practical Test",
+        "description": "Summative MCQ test in Week 10 covering all practical content (weeks 1-9), focusing on specimens and concepts from labs. Includes questions on post-Week 4 material.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour 10-minute MCQ exam during the official university examination period. Tests problem-solving skills and knowledge from all lecture topics across the term.",
+        "weight": "40%"
+    }
+]

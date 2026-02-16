@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Laboratory Quizzes",
+        "description": "Weekly online quizzes with multiple choice questions (MCQs) based on weekly learning activities. Duration 8-10 minutes. Best five quiz marks contribute to final grade.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "Two-part examination during term exam period: Part 1 (15%) integrated practical assessment with specimen/image identification; Part 2 (25%) comprehensive written exam integrating organ system content.",
+        "weight": "40%"
+    },
+    {
+        "item": "Mid-Term Integrated Practical Assessment",
+        "description": "1-hour practical assessment identifying anatomical structures on specimens/medical images and relating concepts to clinical contexts.",
+        "weight": "20%"
+    },
+    {
+        "item": "Assignment Task",
+        "description": "Group research project on clinical/health topic with team-produced information resource and individual 500-word reflection on teamwork skills development. Includes peer/academic feedback rounds.",
+        "weight": "20%"
+    }
+]

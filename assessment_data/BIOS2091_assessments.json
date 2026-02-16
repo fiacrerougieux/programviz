@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Moodle Quizzes",
+        "description": "9 weekly multiple-choice quizzes assessing lecture and practical content understanding. Each quiz takes 10 minutes with online feedback.",
+        "weight": "20%"
+    },
+    {
+        "item": "Independent field project report",
+        "description": "Group-based field research project involving hypothesis formulation, data collection, analysis, and communication. Includes a research proposal presentation (10%), individual scientific journal-style report (1500 words, 20%), and final group presentation (5%).",
+        "weight": "35%"
+    },
+    {
+        "item": "Opinions in Ecology",
+        "description": "Individual popular science article (800 words) arguing one side of a contentious marine science topic, followed by debate participation. Focuses on conservation and management issues.",
+        "weight": "15%"
+    },
+    {
+        "item": "Exam",
+        "description": "2-hour final examination with multiple-choice and short essay questions covering all course material (lectures and practicals).",
+        "weight": "30%"
+    }
+]

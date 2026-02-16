@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Assignment 1",
+        "description": "Covers simple linear regression models with individual (50%) and group (50%) components involving data analysis, numerical/short-answer questions. Topics from weeks 1-2.",
+        "weight": "15%"
+    },
+    {
+        "item": "Assignment 2",
+        "description": "Focuses on general linear models with individual (50%) and group (50%) components. Includes data analysis and applied questions using content from weeks 3-5.",
+        "weight": "15%"
+    },
+    {
+        "item": "Assignment 3",
+        "description": "Addresses model selection and diagnostics in linear models with individual (50%) and group (50%) components. Covers material from weeks 5-8.",
+        "weight": "15%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2-hour individual examination covering all course content (lectures, tutorials, labs, assignments). Assesses theoretical understanding and applied skills.",
+        "weight": "55%"
+    }
+]

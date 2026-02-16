@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Mid-term Test",
+        "description": "1.5-hour written exam in Week 7 covering specimen preparation, crystallography, and X-ray diffraction. Includes short-answer questions and calculations.",
+        "weight": "20%"
+    },
+    {
+        "item": "Assignments",
+        "description": "Three individual assignments: Crystallography (Week 4, 10%), X-ray Diffraction (Week 7, 10%), and Electron Microscopy (Week 9, 15%). Tasks include crystallographic calculations, SEM simulations, and data interpretation.",
+        "weight": "35%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "2-hour exam during UNSW examination period covering electron microscopy, spectroscopy, optical microscopy, and image analysis. Includes multiple-choice, short-answer questions, and calculations.",
+        "weight": "30%"
+    },
+    {
+        "item": "Laboratory work",
+        "description": "Four practical labs: Metallographic Sample Preparation (2%), X-Ray Diffraction analysis (4%), Microscopy operation (4%), and Quantitative Microstructural Analysis using image processing (5%). Involves specimen preparation, equipment operation, and data analysis.",
+        "weight": "15%"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "item": "My Science learning plan",
+        "description": "Complete learning activities on Moodle to develop answers to self-reflection questions and planning activities, compiled into a Learning Plan submitted via Moodle. Graded as satisfactory/non-satisfactory with one resubmission opportunity.",
+        "weight": "50%"
+    },
+    {
+        "item": "Learning Module Quiz",
+        "description": "Three learning modules with associated multiple-choice/drag-and-drop quizzes requiring 100% score on all quizzes. Unlimited attempts allowed.",
+        "weight": "50%"
+    }
+]

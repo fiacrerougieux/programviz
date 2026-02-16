@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Test 1",
+        "description": "40-minute in-person written test covering metric spaces and topological spaces (Weeks 1-3 material). Includes small exercises with academic feedback.",
+        "weight": "15%"
+    },
+    {
+        "item": "Test 2",
+        "description": "50-minute in-person written test covering Lebesgue integrals, normed vector spaces, and Lp spaces (Weeks 4-7 material). Includes problem-solving exercises with feedback.",
+        "weight": "20%"
+    },
+    {
+        "item": "Assignment",
+        "description": "Individual theoretical application task using LaTeX formatting. Focuses on practical problem-solving related to spaces, convergence methods, and Galerkin approximations.",
+        "weight": "15%"
+    },
+    {
+        "item": "Examination",
+        "description": "2-hour comprehensive final exam assessing all course content including integral equations, optimization methods, and PDE analysis. Features various question types requiring proofs/short answers.",
+        "weight": "50%"
+    }
+]

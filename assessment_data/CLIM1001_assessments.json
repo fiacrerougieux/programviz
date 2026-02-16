@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Online tests",
+        "description": "Three open-book multiple choice tests covering core science aspects, each quiz worth 10%. Completed in one sitting with feedback provided afterward.",
+        "weight": "30%"
+    },
+    {
+        "item": "Group-based peer review exercise",
+        "description": "Three group tasks: writing a critical summary of provided material, peer reviewing other groups' work, and responding to peer reviews. Group marks adjusted by peer-assessed contributions.",
+        "weight": "30%"
+    },
+    {
+        "item": "Individual peer review exercise",
+        "description": "1000-word reflective essay on the peer review process, drawing from group experiences. Requires submission to Studiosity for feedback before final submission.",
+        "weight": "25%"
+    },
+    {
+        "item": "Forum discussion",
+        "description": "Weekly contributions to lesson-related discussions, graded on quality and constructiveness. Best posts submitted for marking in Week 11.",
+        "weight": "15%"
+    }
+]

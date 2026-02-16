@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Kinetics Test",
+        "description": "90-minute test covering kinetics content with short answers, calculations, and data plotting. Assesses description of kinetic systems, rate equations, and data interpretation.",
+        "weight": "25%"
+    },
+    {
+        "item": "Laboratory report",
+        "description": "Includes pre-laboratory safety exercise and post-lab report analyzing experimental reaction rates to determine reaction order. Involves 3-hour lab session.",
+        "weight": "10%"
+    },
+    {
+        "item": "Diffusion Fundamentals Test",
+        "description": "90-minute test on diffusion principles with short answers and calculations. Focuses on diffusion mechanisms, rate equations, and theoretical applications.",
+        "weight": "30%"
+    },
+    {
+        "item": "Applied Diffusion and kinetics exam",
+        "description": "2-hour final exam during official exam period testing applied concepts through essay answers, diagrams, and explanations of real-world diffusion/kinetic processes.",
+        "weight": "35%"
+    }
+]

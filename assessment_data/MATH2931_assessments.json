@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Assignment 1",
+        "description": "Covers material up to week 4, including theoretical proofs in linear regression. Students choose between theoretical or computing questions.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2-hour exam covering all course topics on linear models and extensions, including lectures and tutorials content.",
+        "weight": "60%"
+    },
+    {
+        "item": "Assignment 2",
+        "description": "Covers material up to week 9, including modern feature selection methods. Students choose between theoretical or computing questions.",
+        "weight": "20%"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Examination",
+        "description": "2-hour final exam covering content from the 2nd and 3rd lecturers, with short answers, paragraphs, drawings, or numerical responses. Tests understanding of transition metal complexes and organometallic chemistry.",
+        "weight": "40%"
+    },
+    {
+        "item": "Assignments",
+        "description": "Three take-home assignments (quizzes or structured research studies) related to lecture content. Designed to support understanding and provide feedback ahead of assessments.",
+        "weight": "9%"
+    },
+    {
+        "item": "Mid-term Test",
+        "description": "45-minute test covering content from the first lecturer (bonding models and molecular structures). Includes short answers, paragraphs, drawings, or numerical responses.",
+        "weight": "21%"
+    },
+    {
+        "item": "Laboratory Work",
+        "description": "Weekly lab classes involving pre-lab activities (quizzes, notebook preparation), in-lab procedures (preparing inorganic complexes, recording observations), and post-lab reports. Assesses safety, analysis, and communication of results.",
+        "weight": "30%"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Weekly threshold quizzes",
+        "description": "8 weekly multiple-choice quizzes (10 questions each) with unlimited attempts over 2 weeks. Requires at least one 10/10 score per quiz to earn 1% each (total 8%). Focus on threshold learning outcomes from online lessons.",
+        "weight": "8%"
+    },
+    {
+        "item": "Laboratory work",
+        "description": "Practical lab sessions assessing core skills (hurdle requirement) and non-core skills. Requires attendance at 6/8 classes. 10% for completing all core skills, 10% for lab exercise questions (total 20%). Includes safety training and data analysis.",
+        "weight": "20%"
+    },
+    {
+        "item": "In-term tests",
+        "description": "Two threshold-level tests (Week 5 and Week 9) with 20 MCQs each. Requires 15/20 to pass. Test 1 covers topics 1-4, Test 2 covers 1-8. Resits allowed with capped marks. Total 32% (16% per test).",
+        "weight": "32%"
+    },
+    {
+        "item": "Final examination",
+        "description": "2hr 10min exam during university exam period. Covers all mastery topics with MCQs, short numerical answers, and written responses. Assesses lab reporting skills and theoretical applications (40%).",
+        "weight": "40%"
+    }
+]

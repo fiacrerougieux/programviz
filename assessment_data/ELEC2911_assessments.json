@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Power electronic laboratories",
+        "description": "Individual lab reports on experiments with power electronic converters, including answers to questions. Involves interface analysis and basic calculations.",
+        "weight": "20%"
+    },
+    {
+        "item": "AC theory laboratories",
+        "description": "Individual lab reports comparing analytical solutions with simulations for AC systems, transformers, and power calculations. Includes answering theoretical questions.",
+        "weight": "10%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "Comprehensive exam testing analytical understanding of all course material, including AC systems, power electronics, renewable energy systems, and power infrastructure.",
+        "weight": "50%"
+    },
+    {
+        "item": "Mid-Term Exam",
+        "description": "Exam covering course material up to Week 4, focusing on AC systems, transformers, power calculations, and power electronic converters. Provides progress feedback.",
+        "weight": "20%"
+    }
+]

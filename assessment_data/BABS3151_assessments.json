@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Presentation",
+        "description": "5-minute oral presentation on a research article discussing functional analysis of a gene, followed by 5-minute Q&A. Assesses critical evaluation and communication of experimental findings.",
+        "weight": "20%"
+    },
+    {
+        "item": "Research Report",
+        "description": "Written scientific report (4-page maximum) summarizing bioinformatics findings about a gene using tools introduced in practical sessions. Focuses on DNA sequence variation and epigenetic regulation analysis.",
+        "weight": "30%"
+    },
+    {
+        "item": "Mid-term test",
+        "description": "2-hour written test with essay questions covering lecture and practical material from Weeks 1-4. Assesses understanding of genome structure, sequencing technologies, and genetic testing methods.",
+        "weight": "25%"
+    },
+    {
+        "item": "Final exam",
+        "description": "2-hour written examination during formal exam period with essay questions covering Weeks 7-10 content. Tests understanding of human genomics, sequencing impacts, and genetic disease research methods.",
+        "weight": "25%"
+    }
+]

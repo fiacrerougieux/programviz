@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Weekly Lessons",
+        "description": "Online self-paced lessons on Möbius covering Algebra, Calculus, and Maple. Includes videos, exercises with instant feedback, and weekly deadlines. Best 6 out of 9 weeks count.",
+        "weight": "10%"
+    },
+    {
+        "item": "Lab Tests",
+        "description": "Two supervised in-person tests (40 minutes each) focusing on Algebra, Calculus, and Maple usage. Lab Test 1 is without Maple, Lab Test 2 requires Maple. Practice tests provided.",
+        "weight": "30%"
+    },
+    {
+        "item": "Assignment",
+        "description": "Typed solutions to exam-style questions focusing on written communication. Requires equation editors (Word/LaTeX) and submission via Turnitin. Emphasizes clarity and mathematical validity.",
+        "weight": "10%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "2-hour supervised exam covering all course content via Möbius. Tests deeper understanding, unexpected applications, and Maple knowledge. Conducted in-person during exam period.",
+        "weight": "50%"
+    }
+]

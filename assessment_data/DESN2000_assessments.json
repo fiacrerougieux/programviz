@@ -1,0 +1,17 @@
+[
+    {
+        "item": "School Assessments",
+        "description": "School-specific assessments involving design creation, evaluation, technical knowledge, project management, and communication. Includes tasks like project proposals, CAD design, prototype demonstrations, and final reports.",
+        "weight": "60%"
+    },
+    {
+        "item": "Design Journal",
+        "description": "Individual professional record and reflection of the team's design process, reviewed regularly. Assesses design process, project management, teamwork, and communication.",
+        "weight": "20%"
+    },
+    {
+        "item": "Design Presentation",
+        "description": "Group presentation pitching the final design solution, including problem-solution validation, technical details, and communication effectiveness.",
+        "weight": "20%"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Mid session test",
+        "description": "45-minute test held in week 4 tutorial covering the first third of the course (differential geometry and topology of curves). Includes feedback and resit opportunity for eligible students.",
+        "weight": "20%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour exam covering the entire course with emphasis on differential geometry and topology of surfaces. Includes assessment of all course learning outcomes.",
+        "weight": "50%"
+    },
+    {
+        "item": "Assignment 2",
+        "description": "Assignment due in week 9 focusing on differential geometry of surfaces. Assessed with feedback within 10 working days.",
+        "weight": "15%"
+    },
+    {
+        "item": "Assignment 1",
+        "description": "Assignment due in week 5 covering differential geometry of curves. Assessed with feedback within 10 working days.",
+        "weight": "15%"
+    }
+]

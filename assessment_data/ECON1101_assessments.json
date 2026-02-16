@@ -1,0 +1,12 @@
+[
+    {
+        "item": "Playconomics: Game + Academia",
+        "description": "Ongoing assessment combining interactive game elements (Playconomics) and academic exercises (Academia) with multiple choice questions, essay/short answer tasks, and milestone achievements. Involves project-based problem solving with peer feedback.",
+        "weight": "45%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "2-hour online exam assessing understanding of microeconomic principles through multiple choice and/or short answer questions. Covers analysis of markets, policy evaluation, and mathematical applications of economic models.",
+        "weight": "55%"
+    }
+]

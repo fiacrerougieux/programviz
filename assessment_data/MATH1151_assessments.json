@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Assignment",
+        "description": "Typed solutions to individualised questions using Word/LaTeX, focusing on mathematical communication. Involves justifying statements, applying techniques, and using technology.",
+        "weight": "10%"
+    },
+    {
+        "item": "Weekly Lessons",
+        "description": "Online Möbius lessons with Algebra/Calculus/Matlab components and instant feedback. Best 6 out of 9 weekly scores count. Includes video lessons and practice exercises.",
+        "weight": "10%"
+    },
+    {
+        "item": "Final Examination",
+        "description": "2-hour supervised exam using Möbius platform, testing deeper understanding and application of concepts in unexpected contexts. Includes potential Matlab components.",
+        "weight": "50%"
+    },
+    {
+        "item": "Mastery Tests",
+        "description": "Two supervised computer lab tests (40 minutes each) focusing on basic skills. Test 1 (hand calculations), Test 2 includes Matlab. Unlimited practice attempts provided beforehand.",
+        "weight": "30%"
+    }
+]

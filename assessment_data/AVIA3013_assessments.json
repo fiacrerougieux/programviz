@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Video Assignment",
+        "description": "Design, script, and create a 3-minute video analyzing a workplace hazard and its controls based on personal experience or a familiar workplace, with literature justification.",
+        "weight": "35%"
+    },
+    {
+        "item": "Group assignment",
+        "description": "Group task (4 students) to create up to 20 PowerPoint slides analyzing an Australian workplace safety scenario, focusing on cross-industry learning and applying course concepts.",
+        "weight": "30%"
+    },
+    {
+        "item": "Final Exam",
+        "description": "Online multiple-choice test covering all course content, completed in 35 minutes during the official examination period.",
+        "weight": "35%"
+    }
+]

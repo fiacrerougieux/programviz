@@ -1,0 +1,17 @@
+[
+    {
+        "item": "Restoration ecology scientific report",
+        "description": "Students analyse a dataset and write a scientific report from one of the workshops to test a hypothesis in the Wild Deserts Ecological Health and Monitoring Framework (e.g., camera trapping or vegetation quadrat dataset).",
+        "weight": "50%"
+    },
+    {
+        "item": "Desert Ecology Presentation",
+        "description": "Students present research on a given desert ecology topic after discussing with academics/instructors, followed by class feedback.",
+        "weight": "25%"
+    },
+    {
+        "item": "Restoration test",
+        "description": "End-of-course test assessing understanding of restoration ecology concepts, field skills (e.g., animal track/scat identification, ecosystem types), and techniques (e.g., animal capture/tagging).",
+        "weight": "25%"
+    }
+]
